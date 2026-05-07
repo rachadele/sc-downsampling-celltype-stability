@@ -1,0 +1,49 @@
+# Nextflow
+work/
+.nextflow/
+.nextflow.log*
+.nextflow.history*
+trace.txt
+report.html
+timeline.html
+
+# Pipeline outputs — track result tables/plots, but ignore scvi model dir
+model/
+results/
+data/
+
+# Large data + model files
+*.h5ad
+*.rds
+*.h5
+*.h5seurat
+*.pt
+*.pth
+*.npy
+*.npz
+scvi-*/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# LLM tooling (caches, configs, and instruction files)
+.claude/
+.aider*
+.cursor/
+.cursorrules
+CLAUDE.md
+.github/copilot-instructions.md

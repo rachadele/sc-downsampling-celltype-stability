@@ -1,0 +1,52 @@
+cell_type	f1	count_rep1	count_rep2	depth	method	seed1	seed2	comparison
+L2/3-6 intratelencephalic projecting glutamatergic neuron	0.9966777408637874	151	150	15000	scvi	42	123	rep1_vs_rep2
+L5 extratelencephalic projecting glutamatergic cortical neuron	0.9887640449438202	44	45	15000	scvi	42	123	rep1_vs_rep2
+L6 corticothalamic-projecting glutamatergic cortical neuron	0.9498327759197325	151	148	15000	scvi	42	123	rep1_vs_rep2
+L6b glutamatergic cortical neuron	0.954248366013072	152	154	15000	scvi	42	123	rep1_vs_rep2
+astrocyte	0.993421052631579	151	153	15000	scvi	42	123	rep1_vs_rep2
+caudal ganglionic eminence derived GABAergic cortical interneuron	0.9696969696969697	100	98	15000	scvi	42	123	rep1_vs_rep2
+endothelial cell	1.0	21	21	15000	scvi	42	123	rep1_vs_rep2
+lamp5 GABAergic cortical interneuron	0.9829351535836177	148	145	15000	scvi	42	123	rep1_vs_rep2
+microglial cell	0.9967213114754099	152	153	15000	scvi	42	123	rep1_vs_rep2
+near-projecting glutamatergic cortical neuron	1.0	149	149	15000	scvi	42	123	rep1_vs_rep2
+oligodendrocyte	0.9932885906040269	150	148	15000	scvi	42	123	rep1_vs_rep2
+oligodendrocyte precursor cell	0.9966777408637874	150	151	15000	scvi	42	123	rep1_vs_rep2
+pericyte	1.0	9	9	15000	scvi	42	123	rep1_vs_rep2
+pvalb GABAergic cortical interneuron	1.0	156	156	15000	scvi	42	123	rep1_vs_rep2
+sst GABAergic cortical interneuron	0.9863013698630136	145	147	15000	scvi	42	123	rep1_vs_rep2
+vascular leptomeningeal cell	0.0	1	0	15000	scvi	42	123	rep1_vs_rep2
+vip GABAergic cortical interneuron	0.9833887043189369	149	152	15000	scvi	42	123	rep1_vs_rep2
+L2/3-6 intratelencephalic projecting glutamatergic neuron	0.9966777408637874	151	150	15000	scvi	42	123	rep1_vs_original
+L5 extratelencephalic projecting glutamatergic cortical neuron	0.967032967032967	44	47	15000	scvi	42	123	rep1_vs_original
+L6 corticothalamic-projecting glutamatergic cortical neuron	0.9368770764119602	151	150	15000	scvi	42	123	rep1_vs_original
+L6b glutamatergic cortical neuron	0.9337748344370861	152	150	15000	scvi	42	123	rep1_vs_original
+astrocyte	0.9900332225913622	151	150	15000	scvi	42	123	rep1_vs_original
+caudal ganglionic eminence derived GABAergic cortical interneuron	0.9797979797979798	100	98	15000	scvi	42	123	rep1_vs_original
+endothelial cell	1.0	21	21	15000	scvi	42	123	rep1_vs_original
+lamp5 GABAergic cortical interneuron	0.9932885906040269	148	150	15000	scvi	42	123	rep1_vs_original
+microglial cell	0.9933774834437086	152	150	15000	scvi	42	123	rep1_vs_original
+near-projecting glutamatergic cortical neuron	0.9966555183946488	149	150	15000	scvi	42	123	rep1_vs_original
+oligodendrocyte	0.9933333333333333	150	150	15000	scvi	42	123	rep1_vs_original
+oligodendrocyte precursor cell	1.0	150	150	15000	scvi	42	123	rep1_vs_original
+pericyte	0.9473684210526315	9	10	15000	scvi	42	123	rep1_vs_original
+pvalb GABAergic cortical interneuron	0.9738562091503268	156	150	15000	scvi	42	123	rep1_vs_original
+sst GABAergic cortical interneuron	0.9694915254237289	145	150	15000	scvi	42	123	rep1_vs_original
+vascular leptomeningeal cell	0.5	1	3	15000	scvi	42	123	rep1_vs_original
+vip GABAergic cortical interneuron	0.9832775919732442	149	150	15000	scvi	42	123	rep1_vs_original
+L2/3-6 intratelencephalic projecting glutamatergic neuron	1.0	150	150	15000	scvi	42	123	rep2_vs_original
+L5 extratelencephalic projecting glutamatergic cortical neuron	0.9782608695652174	45	47	15000	scvi	42	123	rep2_vs_original
+L6 corticothalamic-projecting glutamatergic cortical neuron	0.9395973154362416	148	150	15000	scvi	42	123	rep2_vs_original
+L6b glutamatergic cortical neuron	0.9473684210526315	154	150	15000	scvi	42	123	rep2_vs_original
+astrocyte	0.9900990099009901	153	150	15000	scvi	42	123	rep2_vs_original
+caudal ganglionic eminence derived GABAergic cortical interneuron	0.9693877551020408	98	98	15000	scvi	42	123	rep2_vs_original
+endothelial cell	1.0	21	21	15000	scvi	42	123	rep2_vs_original
+lamp5 GABAergic cortical interneuron	0.976271186440678	145	150	15000	scvi	42	123	rep2_vs_original
+microglial cell	0.9900990099009901	153	150	15000	scvi	42	123	rep2_vs_original
+near-projecting glutamatergic cortical neuron	0.9966555183946488	149	150	15000	scvi	42	123	rep2_vs_original
+oligodendrocyte	0.9932885906040269	148	150	15000	scvi	42	123	rep2_vs_original
+oligodendrocyte precursor cell	0.9966777408637874	151	150	15000	scvi	42	123	rep2_vs_original
+pericyte	0.9473684210526315	9	10	15000	scvi	42	123	rep2_vs_original
+pvalb GABAergic cortical interneuron	0.9738562091503268	156	150	15000	scvi	42	123	rep2_vs_original
+sst GABAergic cortical interneuron	0.9629629629629629	147	150	15000	scvi	42	123	rep2_vs_original
+vascular leptomeningeal cell	0.0	0	3	15000	scvi	42	123	rep2_vs_original
+vip GABAergic cortical interneuron	0.9735099337748344	152	150	15000	scvi	42	123	rep2_vs_original
