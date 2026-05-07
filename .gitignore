@@ -9,7 +9,6 @@ timeline.html
 
 # Pipeline outputs — track result tables/plots, but ignore scvi model dir
 model/
-results/
 data/
 
 # Large data + model files
