@@ -46,3 +46,6 @@ __pycache__/
 .cursorrules
 CLAUDE.md
 .github/copilot-instructions.md
+
+# Local planning / notes (kept locally, not tracked)
+docs/
