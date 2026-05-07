@@ -50,6 +50,11 @@ Both methods saturate by 25k counts/cell. Seurat reaches the 0.95 stability thre
 
 Note: counts here are gene-assigned read counts in the expression matrix, not raw sequencer reads. Smart-seq v4 has no UMIs, so PCR duplicates may be present depending on upstream processing.
 
+## Related work
+
+[Ma et al. 2022, *Science*](https://doi.org/10.1126/science.abo7257) ran a similar analysis on human dlPFC, subsampling cells and UMIs to evaluate per-subtype separability with AUC, with results stratified by subtype abundance.
+
+
 ## Output layout
 
 Published under `${organism}/${dataset_name}/${census_version}/`:
