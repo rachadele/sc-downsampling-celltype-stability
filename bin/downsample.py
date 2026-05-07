@@ -25,7 +25,7 @@ def parse_arguments():
     )
     parser.add_argument(
         '--target_depth', type=float, default=10000,
-        help='Target number of reads per cell'
+        help='Target number of counts per cell'
     )
     parser.add_argument(
         '--seed', type=int, default=42,
@@ -57,7 +57,7 @@ def main():
     print(f"Original depth - Mean: {original_counts.mean():.0f}, Median: {np.median(original_counts):.0f}")
 
     # Downsample using scanpy
-    print(f"\nDownsampling to {args.target_depth} reads per cell (seed={args.seed})...")
+    print(f"\nDownsampling to {args.target_depth} counts per cell (seed={args.seed})...")
     # Per-cell multinomial downsampling to target depth
 
 

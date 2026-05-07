@@ -27,7 +27,7 @@ Conda envs are hardcoded in `nextflow.config`: `scanpyenv` (Python: scanpy, scvi
 | Census version | 2024-07-01 |
 | Cells subsampled | 5000 |
 | Reference / query split | 70 / 30, stratified by `cell_type` |
-| Depths (reads/cell) | 50, 1k, 5k, 10k, 15k, 25k, 50k, 100k |
+| Depths (counts/cell) | 50, 1k, 5k, 10k, 15k, 25k, 50k, 100k |
 | Seeds | 42, 123 |
 | Seurat normalization | SCTransform, 50 PCs |
 | scVI predictor | RandomForest on scVI latent embeddings |
@@ -41,12 +41,14 @@ Human Multiple Cortical Areas SMART-seq:
 
 Minimum depth for ARI &ge; 0.95 (`stability_summary.tsv`):
 
-| Method | Min depth (reads/cell) |
+| Method | Min depth (counts/cell) |
 |---|---|
 | Seurat | 5,000 |
 | scVI | 10,000 |
 
-Both methods saturate by 25k reads/cell. Seurat reaches the 0.95 stability threshold earlier than scVI on this dataset.
+Both methods saturate by 25k counts/cell. Seurat reaches the 0.95 stability threshold earlier than scVI on this dataset.
+
+Note: counts here are gene-assigned read counts in the expression matrix, not raw sequencer reads. Smart-seq v4 has no UMIs, so PCR duplicates may be present depending on upstream processing.
 
 ## Output layout
 

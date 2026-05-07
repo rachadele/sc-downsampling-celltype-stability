@@ -47,7 +47,7 @@ def parse_arguments():
         '--depth',
         type=int,
         required=True,
-        help='Sequencing depth (reads per cell) for this comparison'
+        help='Sequencing depth (counts per cell) for this comparison'
     )
     parser.add_argument(
         '--method',

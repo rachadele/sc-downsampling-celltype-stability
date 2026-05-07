@@ -94,7 +94,7 @@ def plot_agreement_curves(df, output_path, threshold=0.95):
                 markersize=8
             )
 
-        ax.set_xlabel('Reads per Cell', fontsize=12)
+        ax.set_xlabel('Counts per Cell', fontsize=12)
         if idx == 0:
             ax.set_ylabel('Adjusted Rand Index', fontsize=12)
         ax.set_title(title, fontsize=14)
@@ -185,7 +185,7 @@ def plot_per_type_heatmap(df, output_path):
             else:
                 ax.set_ylabel('')
 
-            ax.set_xlabel('Reads per Cell', fontsize=12)
+            ax.set_xlabel('Counts per Cell', fontsize=12)
             ax.set_title(f'{comparison_titles[comparison]}', fontsize=12)
 
         plt.suptitle(f'Per-Cell-Type {metric_label} ({method.upper()})', fontsize=14)

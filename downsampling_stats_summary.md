@@ -20,9 +20,9 @@
 
 ## Key Observations
 
-1. **Extreme downsampling (50 reads/cell)**: Only ~46 genes/cell detected, losing ~55% of total genes
-2. **5,000 reads/cell**: ~1,795 genes/cell (28% of original), retains 89% of total genes
-3. **100,000 reads/cell**: ~4,295 genes/cell (67% of original), retains 99% of total genes
+1. **Extreme downsampling (50 counts/cell)**: Only ~46 genes/cell detected, losing ~55% of total genes
+2. **5,000 counts/cell**: ~1,795 genes/cell (28% of original), retains 89% of total genes
+3. **100,000 counts/cell**: ~4,295 genes/cell (67% of original), retains 99% of total genes
 4. **Replicate consistency**: Seeds 42 and 123 show very consistent results
 
 ## Conclusion

@@ -127,7 +127,7 @@ def main():
             markersize=8
         )
 
-    ax.set_xlabel('Reads per Cell', fontsize=12)
+    ax.set_xlabel('Counts per Cell', fontsize=12)
     ax.set_ylabel('Compute Time (seconds)', fontsize=12)
     ax.set_title('Prediction Compute Time vs Sequencing Depth', fontsize=14)
     ax.set_xscale('log')
