@@ -1,0 +1,2 @@
+target_depth	seed	n_cells	total_genes	original_avg_counts_per_cell	downsampled_avg_counts_per_cell	original_avg_genes_per_cell	downsampled_avg_genes_per_cell	original_median_genes_per_cell	downsampled_median_genes_per_cell	original_total_genes_detected	downsampled_total_genes_detected
+100.0	123	1979	27158	1285958.2	100.0	6439.533097524002	89.29762506316321	6601.0	90.0	27090	14626

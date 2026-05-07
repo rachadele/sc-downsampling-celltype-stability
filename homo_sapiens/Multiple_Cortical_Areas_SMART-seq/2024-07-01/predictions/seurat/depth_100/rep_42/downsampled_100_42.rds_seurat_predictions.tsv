@@ -1,0 +1,1980 @@
+cell_id	predicted_label	max_score	original_label
+4843	oligodendrocyte precursor cell	0.979345518465462	oligodendrocyte precursor cell
+144	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+3726	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.986433991249257	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4292	lamp5 GABAergic cortical interneuron	0.953572543417335	lamp5 GABAergic cortical interneuron
+3306	near-projecting glutamatergic cortical neuron	0.628738506443322	sst GABAergic cortical interneuron
+3353	endothelial cell	0.517571542198833	lamp5 GABAergic cortical interneuron
+6532	near-projecting glutamatergic cortical neuron	0.830483347060187	near-projecting glutamatergic cortical neuron
+3957	L6 corticothalamic-projecting glutamatergic cortical neuron	0.584088754874674	L6 corticothalamic-projecting glutamatergic cortical neuron
+2711	endothelial cell	0.61050896265426	pericyte
+6356	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.508645011030754	pvalb GABAergic cortical interneuron
+5308	astrocyte	1	astrocyte
+2825	sst GABAergic cortical interneuron	0.989181857110856	sst GABAergic cortical interneuron
+5287	oligodendrocyte	0.805612400335322	oligodendrocyte
+5525	oligodendrocyte precursor cell	0.601731131016256	oligodendrocyte precursor cell
+798	oligodendrocyte	0.999999999999999	oligodendrocyte
+2523	L6b glutamatergic cortical neuron	0.804574708007808	L5 extratelencephalic projecting glutamatergic cortical neuron
+3620	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+5573	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+5154	L6 corticothalamic-projecting glutamatergic cortical neuron	0.810765208678365	L6 corticothalamic-projecting glutamatergic cortical neuron
+6194	oligodendrocyte	1	oligodendrocyte
+6343	L6b glutamatergic cortical neuron	0.456030860737465	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4581	pvalb GABAergic cortical interneuron	0.994734220278472	pvalb GABAergic cortical interneuron
+4997	oligodendrocyte	1	oligodendrocyte
+5257	microglial cell	1	microglial cell
+743	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.663376130465303	L5 extratelencephalic projecting glutamatergic cortical neuron
+5689	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4066	microglial cell	1	microglial cell
+4483	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.749533039023098	L5 extratelencephalic projecting glutamatergic cortical neuron
+1082	sst GABAergic cortical interneuron	0.992880357454305	sst GABAergic cortical interneuron
+6003	oligodendrocyte	1	oligodendrocyte
+6351	vip GABAergic cortical interneuron	0.559182102326836	pvalb GABAergic cortical interneuron
+3029	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.792912998884813	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1604	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+2505	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+5798	microglial cell	0.636461353175252	microglial cell
+5217	vip GABAergic cortical interneuron	0.891420989737514	lamp5 GABAergic cortical interneuron
+4214	caudal ganglionic eminence derived GABAergic cortical interneuron	0.892021671076295	lamp5 GABAergic cortical interneuron
+2135	microglial cell	1	microglial cell
+3305	L6 corticothalamic-projecting glutamatergic cortical neuron	0.700116591822616	L6b glutamatergic cortical neuron
+1951	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.779398560967714	near-projecting glutamatergic cortical neuron
+5764	L6b glutamatergic cortical neuron	0.657592038363002	L6b glutamatergic cortical neuron
+739	oligodendrocyte precursor cell	0.975044904712288	oligodendrocyte precursor cell
+2906	L6b glutamatergic cortical neuron	0.603071290354102	L6b glutamatergic cortical neuron
+3563	L5 extratelencephalic projecting glutamatergic cortical neuron	0.702518768716752	L5 extratelencephalic projecting glutamatergic cortical neuron
+4199	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.51390827874546	lamp5 GABAergic cortical interneuron
+4981	oligodendrocyte	0.999999999999999	oligodendrocyte
+4820	oligodendrocyte	0.999999999999999	oligodendrocyte
+4975	lamp5 GABAergic cortical interneuron	0.371752320190695	L5 extratelencephalic projecting glutamatergic cortical neuron
+1719	sst GABAergic cortical interneuron	0.614159621334128	oligodendrocyte precursor cell
+6064	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.765551286868021	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5940	astrocyte	1	astrocyte
+5919	vip GABAergic cortical interneuron	0.41273501351509	lamp5 GABAergic cortical interneuron
+6096	sst GABAergic cortical interneuron	0.984712890468599	sst GABAergic cortical interneuron
+3986	sst GABAergic cortical interneuron	0.684501182509639	sst GABAergic cortical interneuron
+4768	L5 extratelencephalic projecting glutamatergic cortical neuron	0.811801827894411	L5 extratelencephalic projecting glutamatergic cortical neuron
+1030	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+1542	L6b glutamatergic cortical neuron	0.771709630724848	L6b glutamatergic cortical neuron
+6563	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.949878578330664	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3683	L6b glutamatergic cortical neuron	0.655082904210618	L6b glutamatergic cortical neuron
+1442	microglial cell	1	microglial cell
+4976	astrocyte	1	astrocyte
+4308	L6b glutamatergic cortical neuron	0.501634197486805	near-projecting glutamatergic cortical neuron
+5224	vip GABAergic cortical interneuron	0.996602886973013	vip GABAergic cortical interneuron
+5956	caudal ganglionic eminence derived GABAergic cortical interneuron	0.850763009940841	caudal ganglionic eminence derived GABAergic cortical interneuron
+1977	L6b glutamatergic cortical neuron	0.397178944483478	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1451	pvalb GABAergic cortical interneuron	0.565375854211374	vip GABAergic cortical interneuron
+914	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+6455	L6 corticothalamic-projecting glutamatergic cortical neuron	0.638558881757935	L6 corticothalamic-projecting glutamatergic cortical neuron
+208	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+4690	lamp5 GABAergic cortical interneuron	0.955590776383072	lamp5 GABAergic cortical interneuron
+1690	oligodendrocyte	1	oligodendrocyte
+1074	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+312	astrocyte	1	astrocyte
+975	microglial cell	1	microglial cell
+149	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.718496102263777	sst GABAergic cortical interneuron
+2952	oligodendrocyte	1	oligodendrocyte
+4785	L5 extratelencephalic projecting glutamatergic cortical neuron	0.969333343572751	L5 extratelencephalic projecting glutamatergic cortical neuron
+5212	caudal ganglionic eminence derived GABAergic cortical interneuron	0.996683656111012	caudal ganglionic eminence derived GABAergic cortical interneuron
+302	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+4660	sst GABAergic cortical interneuron	0.665251205689003	near-projecting glutamatergic cortical neuron
+4289	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1754	lamp5 GABAergic cortical interneuron	0.994510846526468	lamp5 GABAergic cortical interneuron
+376	sst GABAergic cortical interneuron	0.838766610016782	sst GABAergic cortical interneuron
+2404	microglial cell	1	microglial cell
+5935	astrocyte	0.982789164029529	astrocyte
+2353	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+2440	near-projecting glutamatergic cortical neuron	0.999999999999999	near-projecting glutamatergic cortical neuron
+2557	caudal ganglionic eminence derived GABAergic cortical interneuron	0.559401370185196	caudal ganglionic eminence derived GABAergic cortical interneuron
+1155	pvalb GABAergic cortical interneuron	0.382648223596997	sst GABAergic cortical interneuron
+5247	vip GABAergic cortical interneuron	0.595427135538593	vip GABAergic cortical interneuron
+5580	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+1606	L6 corticothalamic-projecting glutamatergic cortical neuron	0.619484949197182	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3424	vip GABAergic cortical interneuron	0.734571408603711	vip GABAergic cortical interneuron
+3174	L6b glutamatergic cortical neuron	1	L6b glutamatergic cortical neuron
+1887	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.681798281435631	L6b glutamatergic cortical neuron
+216	L6b glutamatergic cortical neuron	0.664652974842635	L6 corticothalamic-projecting glutamatergic cortical neuron
+2019	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3411	microglial cell	1	microglial cell
+3473	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.883491205941632	L5 extratelencephalic projecting glutamatergic cortical neuron
+2459	caudal ganglionic eminence derived GABAergic cortical interneuron	0.989018718330809	caudal ganglionic eminence derived GABAergic cortical interneuron
+3119	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+862	pericyte	0.726621305736801	pericyte
+1524	lamp5 GABAergic cortical interneuron	0.916238541773109	lamp5 GABAergic cortical interneuron
+3237	astrocyte	1	astrocyte
+6264	pericyte	0.616610364540493	pericyte
+4158	microglial cell	1	microglial cell
+6072	L6b glutamatergic cortical neuron	0.974011765220418	L6b glutamatergic cortical neuron
+3288	astrocyte	1	astrocyte
+3273	L6 corticothalamic-projecting glutamatergic cortical neuron	0.555431556974642	L6b glutamatergic cortical neuron
+5060	oligodendrocyte	1	oligodendrocyte
+372	pvalb GABAergic cortical interneuron	0.746919869178963	vip GABAergic cortical interneuron
+3931	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.996709194060654	L6 corticothalamic-projecting glutamatergic cortical neuron
+4716	oligodendrocyte	0.982327624578697	oligodendrocyte
+2654	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5964	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+5411	lamp5 GABAergic cortical interneuron	0.987502789914006	lamp5 GABAergic cortical interneuron
+4925	L6b glutamatergic cortical neuron	0.589958174759277	L6b glutamatergic cortical neuron
+2981	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.878914490209527	L2/3-6 intratelencephalic projecting glutamatergic neuron
+294	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+4796	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+6470	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	sst GABAergic cortical interneuron
+114	L6b glutamatergic cortical neuron	0.748876374851256	L6 corticothalamic-projecting glutamatergic cortical neuron
+3790	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.712408565684048	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3032	vip GABAergic cortical interneuron	0.269154330081099	vip GABAergic cortical interneuron
+2269	L6 corticothalamic-projecting glutamatergic cortical neuron	0.770928379251813	pvalb GABAergic cortical interneuron
+409	vip GABAergic cortical interneuron	0.341376225932684	vip GABAergic cortical interneuron
+3241	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.43078443985579	lamp5 GABAergic cortical interneuron
+1686	pvalb GABAergic cortical interneuron	0.887809240878579	pvalb GABAergic cortical interneuron
+211	lamp5 GABAergic cortical interneuron	0.711418190198247	caudal ganglionic eminence derived GABAergic cortical interneuron
+3146	caudal ganglionic eminence derived GABAergic cortical interneuron	0.49101010394078	caudal ganglionic eminence derived GABAergic cortical interneuron
+3975	L6 corticothalamic-projecting glutamatergic cortical neuron	0.590425143061183	near-projecting glutamatergic cortical neuron
+3461	L6 corticothalamic-projecting glutamatergic cortical neuron	0.635784983784984	L6b glutamatergic cortical neuron
+3110	pericyte	0.291536188557476	astrocyte
+5503	microglial cell	1	microglial cell
+159	L6b glutamatergic cortical neuron	1	L6b glutamatergic cortical neuron
+5221	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+5591	vip GABAergic cortical interneuron	0.750389659625329	lamp5 GABAergic cortical interneuron
+4521	vip GABAergic cortical interneuron	0.894760668135734	vip GABAergic cortical interneuron
+5610	endothelial cell	0.529758225751535	microglial cell
+3967	L6 corticothalamic-projecting glutamatergic cortical neuron	0.448600380836443	L6b glutamatergic cortical neuron
+2937	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+3860	L6 corticothalamic-projecting glutamatergic cortical neuron	0.909198825074058	L6 corticothalamic-projecting glutamatergic cortical neuron
+3779	pvalb GABAergic cortical interneuron	0.539028340931751	vip GABAergic cortical interneuron
+2502	L6 corticothalamic-projecting glutamatergic cortical neuron	0.862755291696483	L6 corticothalamic-projecting glutamatergic cortical neuron
+4148	sst GABAergic cortical interneuron	0.988776786706536	sst GABAergic cortical interneuron
+407	oligodendrocyte precursor cell	0.982640289284385	oligodendrocyte precursor cell
+5505	pvalb GABAergic cortical interneuron	0.596696752519107	pvalb GABAergic cortical interneuron
+1900	oligodendrocyte precursor cell	0.9838604107129	oligodendrocyte precursor cell
+2017	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.857320403204683	L2/3-6 intratelencephalic projecting glutamatergic neuron
+6579	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+2434	vip GABAergic cortical interneuron	0.840398324552837	vip GABAergic cortical interneuron
+6150	vip GABAergic cortical interneuron	0.824112425833441	vip GABAergic cortical interneuron
+6103	astrocyte	0.917908527105811	astrocyte
+4735	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+3028	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.995080367027024	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5566	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2044	oligodendrocyte	1	oligodendrocyte
+6222	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+6328	microglial cell	1	microglial cell
+6419	microglial cell	1	microglial cell
+731	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+5552	vip GABAergic cortical interneuron	0.670462024912957	lamp5 GABAergic cortical interneuron
+3168	pvalb GABAergic cortical interneuron	0.283386304705185	vip GABAergic cortical interneuron
+3735	vip GABAergic cortical interneuron	0.882777214086662	vip GABAergic cortical interneuron
+4059	pvalb GABAergic cortical interneuron	0.977654270213907	pvalb GABAergic cortical interneuron
+5135	astrocyte	1	astrocyte
+1842	lamp5 GABAergic cortical interneuron	0.459664752047327	lamp5 GABAergic cortical interneuron
+3399	L6 corticothalamic-projecting glutamatergic cortical neuron	0.612482110675417	near-projecting glutamatergic cortical neuron
+3272	L6b glutamatergic cortical neuron	0.622929747435149	L6b glutamatergic cortical neuron
+4287	oligodendrocyte precursor cell	0.876416563101315	oligodendrocyte precursor cell
+5173	L6b glutamatergic cortical neuron	0.775191596141114	L6 corticothalamic-projecting glutamatergic cortical neuron
+462	microglial cell	0.318267084072325	microglial cell
+2286	near-projecting glutamatergic cortical neuron	0.953574146183552	near-projecting glutamatergic cortical neuron
+1898	lamp5 GABAergic cortical interneuron	0.861465436983701	lamp5 GABAergic cortical interneuron
+5066	lamp5 GABAergic cortical interneuron	0.727425409306609	lamp5 GABAergic cortical interneuron
+3984	pvalb GABAergic cortical interneuron	0.251414766070661	sst GABAergic cortical interneuron
+3564	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+73	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+1580	L6 corticothalamic-projecting glutamatergic cortical neuron	0.560212154885061	L6 corticothalamic-projecting glutamatergic cortical neuron
+5507	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4920	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.613412699002485	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5150	microglial cell	1	microglial cell
+5730	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.894719268925626	oligodendrocyte precursor cell
+791	astrocyte	1	astrocyte
+616	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+3020	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+432	vip GABAergic cortical interneuron	0.405099834261597	vip GABAergic cortical interneuron
+5576	L6 corticothalamic-projecting glutamatergic cortical neuron	0.967616819386822	near-projecting glutamatergic cortical neuron
+288	endothelial cell	0.636806049341286	oligodendrocyte precursor cell
+5175	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+632	vip GABAergic cortical interneuron	0.693704881363771	caudal ganglionic eminence derived GABAergic cortical interneuron
+1121	lamp5 GABAergic cortical interneuron	0.478994295870178	lamp5 GABAergic cortical interneuron
+2729	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4974	pvalb GABAergic cortical interneuron	0.843365622746678	L6b glutamatergic cortical neuron
+1531	vip GABAergic cortical interneuron	0.845587585876334	vip GABAergic cortical interneuron
+3479	L6b glutamatergic cortical neuron	0.596771877241721	L6b glutamatergic cortical neuron
+3219	lamp5 GABAergic cortical interneuron	0.796738122692436	lamp5 GABAergic cortical interneuron
+5882	pvalb GABAergic cortical interneuron	0.945875215094973	pvalb GABAergic cortical interneuron
+2779	near-projecting glutamatergic cortical neuron	0.608984998709382	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2008	L6b glutamatergic cortical neuron	0.739335423531718	L6 corticothalamic-projecting glutamatergic cortical neuron
+2994	L6 corticothalamic-projecting glutamatergic cortical neuron	0.596576561345597	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1192	oligodendrocyte	1	oligodendrocyte
+5705	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.478096316099477	astrocyte
+5044	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4294	pvalb GABAergic cortical interneuron	0.777120147458491	vip GABAergic cortical interneuron
+1194	caudal ganglionic eminence derived GABAergic cortical interneuron	0.75864647742195	caudal ganglionic eminence derived GABAergic cortical interneuron
+1312	pvalb GABAergic cortical interneuron	0.919006900581564	pvalb GABAergic cortical interneuron
+4517	L6 corticothalamic-projecting glutamatergic cortical neuron	0.577329120174913	L6 corticothalamic-projecting glutamatergic cortical neuron
+6205	lamp5 GABAergic cortical interneuron	0.983297038145447	lamp5 GABAergic cortical interneuron
+4627	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.456153751779954	endothelial cell
+2670	L6 corticothalamic-projecting glutamatergic cortical neuron	0.927398520289338	L6b glutamatergic cortical neuron
+3655	L6b glutamatergic cortical neuron	0.574533952950753	L5 extratelencephalic projecting glutamatergic cortical neuron
+5732	oligodendrocyte	1	oligodendrocyte
+3400	sst GABAergic cortical interneuron	0.540574241727558	lamp5 GABAergic cortical interneuron
+4433	L6 corticothalamic-projecting glutamatergic cortical neuron	0.588610665465835	near-projecting glutamatergic cortical neuron
+2966	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.756427709496406	pvalb GABAergic cortical interneuron
+1895	oligodendrocyte	1	oligodendrocyte
+2649	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.997305550594027	L2/3-6 intratelencephalic projecting glutamatergic neuron
+6070	L6 corticothalamic-projecting glutamatergic cortical neuron	0.787676879090445	L6b glutamatergic cortical neuron
+601	astrocyte	1	astrocyte
+5448	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.938768047236818	L6b glutamatergic cortical neuron
+6348	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.814187130452311	L6b glutamatergic cortical neuron
+5465	oligodendrocyte	0.942837399476852	oligodendrocyte
+3703	vip GABAergic cortical interneuron	0.951934682486228	vip GABAergic cortical interneuron
+6305	L6b glutamatergic cortical neuron	0.873798311933672	L6b glutamatergic cortical neuron
+591	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+627	oligodendrocyte precursor cell	0.957778563327431	oligodendrocyte precursor cell
+4425	caudal ganglionic eminence derived GABAergic cortical interneuron	0.97618321955745	caudal ganglionic eminence derived GABAergic cortical interneuron
+5051	caudal ganglionic eminence derived GABAergic cortical interneuron	0.66145080087359	caudal ganglionic eminence derived GABAergic cortical interneuron
+1629	near-projecting glutamatergic cortical neuron	0.979839232913943	near-projecting glutamatergic cortical neuron
+561	microglial cell	1	microglial cell
+4084	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+2524	pvalb GABAergic cortical interneuron	0.49166572280012	L6 corticothalamic-projecting glutamatergic cortical neuron
+6497	L6 corticothalamic-projecting glutamatergic cortical neuron	0.994609280338088	near-projecting glutamatergic cortical neuron
+1092	near-projecting glutamatergic cortical neuron	0.721709309952887	near-projecting glutamatergic cortical neuron
+6117	astrocyte	1	astrocyte
+902	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+3869	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.877316625633273	near-projecting glutamatergic cortical neuron
+3687	L6b glutamatergic cortical neuron	0.951198008520263	L6b glutamatergic cortical neuron
+3063	sst GABAergic cortical interneuron	0.997994888285498	pvalb GABAergic cortical interneuron
+592	vip GABAergic cortical interneuron	0.681259777945551	vip GABAergic cortical interneuron
+4845	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+3693	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3669	L6 corticothalamic-projecting glutamatergic cortical neuron	0.342639050422598	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5260	endothelial cell	0.897495870780412	endothelial cell
+275	vip GABAergic cortical interneuron	0.596919908505449	vip GABAergic cortical interneuron
+1899	pericyte	0.869449851410482	pericyte
+5107	L6 corticothalamic-projecting glutamatergic cortical neuron	1	L6 corticothalamic-projecting glutamatergic cortical neuron
+1668	astrocyte	1	astrocyte
+76	L6 corticothalamic-projecting glutamatergic cortical neuron	0.644039152386975	near-projecting glutamatergic cortical neuron
+6195	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+5100	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.853318757062752	lamp5 GABAergic cortical interneuron
+3549	pvalb GABAergic cortical interneuron	0.813566849411283	pvalb GABAergic cortical interneuron
+5291	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.491435296121119	L6b glutamatergic cortical neuron
+4766	L6b glutamatergic cortical neuron	0.919508919010755	L6 corticothalamic-projecting glutamatergic cortical neuron
+1533	caudal ganglionic eminence derived GABAergic cortical interneuron	0.902831748083715	caudal ganglionic eminence derived GABAergic cortical interneuron
+2708	astrocyte	1	astrocyte
+6468	vip GABAergic cortical interneuron	0.88884312054588	vip GABAergic cortical interneuron
+2633	microglial cell	1	microglial cell
+1213	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+1937	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.843149441679982	oligodendrocyte precursor cell
+5155	pvalb GABAergic cortical interneuron	0.618693850318229	lamp5 GABAergic cortical interneuron
+2391	microglial cell	1	microglial cell
+2760	microglial cell	0.751910788167439	microglial cell
+1330	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+3953	L6 corticothalamic-projecting glutamatergic cortical neuron	0.948447084114173	L6 corticothalamic-projecting glutamatergic cortical neuron
+1302	astrocyte	1	astrocyte
+4967	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.947008253312622	vip GABAergic cortical interneuron
+142	near-projecting glutamatergic cortical neuron	0.761663855128394	near-projecting glutamatergic cortical neuron
+1418	caudal ganglionic eminence derived GABAergic cortical interneuron	0.59485598747906	caudal ganglionic eminence derived GABAergic cortical interneuron
+100	vip GABAergic cortical interneuron	0.504552195543691	oligodendrocyte precursor cell
+4516	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+2931	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+751	microglial cell	1	microglial cell
+6539	microglial cell	0.961238630631882	microglial cell
+1086	near-projecting glutamatergic cortical neuron	0.945948919416638	near-projecting glutamatergic cortical neuron
+4336	sst GABAergic cortical interneuron	0.522602456375543	sst GABAergic cortical interneuron
+3757	astrocyte	0.999999999999999	astrocyte
+3659	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.524929210139538	pvalb GABAergic cortical interneuron
+5858	oligodendrocyte	1	oligodendrocyte
+2438	caudal ganglionic eminence derived GABAergic cortical interneuron	0.40517548726058	caudal ganglionic eminence derived GABAergic cortical interneuron
+4155	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+5698	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.76684712976771	vip GABAergic cortical interneuron
+3552	L5 extratelencephalic projecting glutamatergic cortical neuron	0.678044563080277	L5 extratelencephalic projecting glutamatergic cortical neuron
+2904	pvalb GABAergic cortical interneuron	0.992233477259012	pvalb GABAergic cortical interneuron
+1473	lamp5 GABAergic cortical interneuron	0.550865668315136	lamp5 GABAergic cortical interneuron
+4208	pvalb GABAergic cortical interneuron	0.456924702823752	L5 extratelencephalic projecting glutamatergic cortical neuron
+3470	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+4572	endothelial cell	0.661065327837967	endothelial cell
+6287	oligodendrocyte	1	oligodendrocyte
+5849	L6 corticothalamic-projecting glutamatergic cortical neuron	0.388278002296706	L6b glutamatergic cortical neuron
+2405	L6b glutamatergic cortical neuron	0.592362752001214	L6b glutamatergic cortical neuron
+3578	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+1824	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+2515	caudal ganglionic eminence derived GABAergic cortical interneuron	0.563215930506612	caudal ganglionic eminence derived GABAergic cortical interneuron
+1955	oligodendrocyte	1	oligodendrocyte
+3917	near-projecting glutamatergic cortical neuron	0.699040734917515	L6 corticothalamic-projecting glutamatergic cortical neuron
+4793	L6 corticothalamic-projecting glutamatergic cortical neuron	0.851972068160688	L6 corticothalamic-projecting glutamatergic cortical neuron
+794	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.79944838786006	pericyte
+2809	oligodendrocyte precursor cell	0.52349652650305	oligodendrocyte precursor cell
+581	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+1954	sst GABAergic cortical interneuron	0.629858554027165	lamp5 GABAergic cortical interneuron
+2632	lamp5 GABAergic cortical interneuron	0.828264737043999	lamp5 GABAergic cortical interneuron
+3316	oligodendrocyte precursor cell	0.691071044477189	oligodendrocyte precursor cell
+4098	sst GABAergic cortical interneuron	0.74287694452204	sst GABAergic cortical interneuron
+4714	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+6033	microglial cell	1	microglial cell
+2648	L6 corticothalamic-projecting glutamatergic cortical neuron	0.865692195613073	L2/3-6 intratelencephalic projecting glutamatergic neuron
+202	lamp5 GABAergic cortical interneuron	0.793620160005749	lamp5 GABAergic cortical interneuron
+2465	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+1507	microglial cell	1	microglial cell
+1222	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+419	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.84929816866125	near-projecting glutamatergic cortical neuron
+1570	L6b glutamatergic cortical neuron	0.800581243867807	L6b glutamatergic cortical neuron
+348	L6b glutamatergic cortical neuron	0.364850041360461	near-projecting glutamatergic cortical neuron
+5945	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+2804	L6 corticothalamic-projecting glutamatergic cortical neuron	0.932881681268898	L6 corticothalamic-projecting glutamatergic cortical neuron
+313	oligodendrocyte	1	oligodendrocyte
+2416	vip GABAergic cortical interneuron	0.792667835182131	vip GABAergic cortical interneuron
+1520	lamp5 GABAergic cortical interneuron	0.712696670783209	lamp5 GABAergic cortical interneuron
+6179	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+6058	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.713715771685141	L6 corticothalamic-projecting glutamatergic cortical neuron
+4348	L5 extratelencephalic projecting glutamatergic cortical neuron	0.901455376012046	L2/3-6 intratelencephalic projecting glutamatergic neuron
+457	lamp5 GABAergic cortical interneuron	0.725813464486134	caudal ganglionic eminence derived GABAergic cortical interneuron
+6393	pvalb GABAergic cortical interneuron	0.923342596799693	pvalb GABAergic cortical interneuron
+5530	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.495574179075105	oligodendrocyte precursor cell
+1412	oligodendrocyte precursor cell	0.591347091109496	oligodendrocyte precursor cell
+1630	L6b glutamatergic cortical neuron	0.775880211602162	near-projecting glutamatergic cortical neuron
+283	vip GABAergic cortical interneuron	0.976054876809393	vip GABAergic cortical interneuron
+4459	microglial cell	0.999999999999999	microglial cell
+5733	lamp5 GABAergic cortical interneuron	0.944682016937331	oligodendrocyte precursor cell
+1672	L6 corticothalamic-projecting glutamatergic cortical neuron	0.896951652565783	L6 corticothalamic-projecting glutamatergic cortical neuron
+6163	oligodendrocyte	1	oligodendrocyte
+1191	microglial cell	1	microglial cell
+778	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+5756	microglial cell	1	microglial cell
+1655	L6 corticothalamic-projecting glutamatergic cortical neuron	0.587169212120137	L6b glutamatergic cortical neuron
+3524	near-projecting glutamatergic cortical neuron	0.853011732071216	near-projecting glutamatergic cortical neuron
+6322	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.363339382565883	L6 corticothalamic-projecting glutamatergic cortical neuron
+1698	oligodendrocyte precursor cell	0.492135345094207	oligodendrocyte precursor cell
+6080	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.976470444405718	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4827	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+4626	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.769936120974964	L6b glutamatergic cortical neuron
+2544	caudal ganglionic eminence derived GABAergic cortical interneuron	0.670070542159401	lamp5 GABAergic cortical interneuron
+4593	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+1436	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.584514049393373	vip GABAergic cortical interneuron
+1981	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3643	oligodendrocyte	0.985100353847366	oligodendrocyte
+737	pvalb GABAergic cortical interneuron	0.976583179798356	pvalb GABAergic cortical interneuron
+5339	L5 extratelencephalic projecting glutamatergic cortical neuron	0.72158553282909	L5 extratelencephalic projecting glutamatergic cortical neuron
+4139	oligodendrocyte	1	oligodendrocyte
+5364	near-projecting glutamatergic cortical neuron	0.888000475855473	near-projecting glutamatergic cortical neuron
+1321	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+3574	L6b glutamatergic cortical neuron	0.933844957784525	L6b glutamatergic cortical neuron
+156	L6b glutamatergic cortical neuron	0.334812008377716	L6b glutamatergic cortical neuron
+3544	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+1703	vascular leptomeningeal cell	0.534076329152716	vascular leptomeningeal cell
+1085	L5 extratelencephalic projecting glutamatergic cortical neuron	0.770071157192393	L5 extratelencephalic projecting glutamatergic cortical neuron
+6360	pvalb GABAergic cortical interneuron	0.862160060542001	pvalb GABAergic cortical interneuron
+2824	L6b glutamatergic cortical neuron	0.422367370475023	L6b glutamatergic cortical neuron
+2911	L5 extratelencephalic projecting glutamatergic cortical neuron	0.89363159666419	L5 extratelencephalic projecting glutamatergic cortical neuron
+1769	microglial cell	1	microglial cell
+2487	vip GABAergic cortical interneuron	0.419215306448069	caudal ganglionic eminence derived GABAergic cortical interneuron
+1790	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+5915	L6 corticothalamic-projecting glutamatergic cortical neuron	0.989842619281905	L6 corticothalamic-projecting glutamatergic cortical neuron
+5133	L6 corticothalamic-projecting glutamatergic cortical neuron	0.838861023707529	L6 corticothalamic-projecting glutamatergic cortical neuron
+2238	L6b glutamatergic cortical neuron	0.50782820332618	L6b glutamatergic cortical neuron
+189	astrocyte	0.465266337064802	astrocyte
+576	caudal ganglionic eminence derived GABAergic cortical interneuron	0.580180429755729	vip GABAergic cortical interneuron
+138	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+3987	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+2667	L6 corticothalamic-projecting glutamatergic cortical neuron	1	L6 corticothalamic-projecting glutamatergic cortical neuron
+1494	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.891372431588388	caudal ganglionic eminence derived GABAergic cortical interneuron
+3122	pvalb GABAergic cortical interneuron	0.369948661807892	astrocyte
+557	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+920	L5 extratelencephalic projecting glutamatergic cortical neuron	0.86199700980107	L5 extratelencephalic projecting glutamatergic cortical neuron
+5057	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.79382185222403	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1871	L6 corticothalamic-projecting glutamatergic cortical neuron	0.756689304277294	L6 corticothalamic-projecting glutamatergic cortical neuron
+4071	oligodendrocyte	0.538857652844894	oligodendrocyte
+4602	pvalb GABAergic cortical interneuron	0.990124219133379	pvalb GABAergic cortical interneuron
+2736	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.838727858200889	caudal ganglionic eminence derived GABAergic cortical interneuron
+5904	L6b glutamatergic cortical neuron	0.464382078523568	L6b glutamatergic cortical neuron
+1546	L6b glutamatergic cortical neuron	0.837048987916822	L6b glutamatergic cortical neuron
+5524	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.769311238818259	L6b glutamatergic cortical neuron
+266	sst GABAergic cortical interneuron	0.87634327884413	sst GABAergic cortical interneuron
+4877	L6 corticothalamic-projecting glutamatergic cortical neuron	0.716538796678537	vip GABAergic cortical interneuron
+6380	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3213	caudal ganglionic eminence derived GABAergic cortical interneuron	0.989221987955524	caudal ganglionic eminence derived GABAergic cortical interneuron
+5808	lamp5 GABAergic cortical interneuron	0.969511141254197	lamp5 GABAergic cortical interneuron
+484	caudal ganglionic eminence derived GABAergic cortical interneuron	0.941125785627001	caudal ganglionic eminence derived GABAergic cortical interneuron
+2737	near-projecting glutamatergic cortical neuron	0.725728782945787	near-projecting glutamatergic cortical neuron
+4896	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+5814	vip GABAergic cortical interneuron	0.937802956138042	vip GABAergic cortical interneuron
+2320	oligodendrocyte	1	oligodendrocyte
+3797	microglial cell	0.727201554888982	microglial cell
+4754	oligodendrocyte	1	oligodendrocyte
+3490	L6 corticothalamic-projecting glutamatergic cortical neuron	0.564420442958016	L6b glutamatergic cortical neuron
+4503	microglial cell	0.869486590734527	microglial cell
+5939	caudal ganglionic eminence derived GABAergic cortical interneuron	0.765082280320951	caudal ganglionic eminence derived GABAergic cortical interneuron
+1679	pvalb GABAergic cortical interneuron	0.620997922788509	L6b glutamatergic cortical neuron
+1286	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.604076580648649	sst GABAergic cortical interneuron
+3007	L6 corticothalamic-projecting glutamatergic cortical neuron	0.606083452897645	L6 corticothalamic-projecting glutamatergic cortical neuron
+6473	caudal ganglionic eminence derived GABAergic cortical interneuron	0.647806827637053	caudal ganglionic eminence derived GABAergic cortical interneuron
+481	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.564359310142197	oligodendrocyte precursor cell
+703	vip GABAergic cortical interneuron	0.892528756051793	vip GABAergic cortical interneuron
+3055	pvalb GABAergic cortical interneuron	0.541542451318926	pvalb GABAergic cortical interneuron
+6362	microglial cell	1	microglial cell
+5262	vip GABAergic cortical interneuron	0.991772223761395	vip GABAergic cortical interneuron
+2177	sst GABAergic cortical interneuron	0.97903478583452	sst GABAergic cortical interneuron
+4657	near-projecting glutamatergic cortical neuron	0.316953840740305	pvalb GABAergic cortical interneuron
+1309	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.452581225379935	sst GABAergic cortical interneuron
+6583	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.38324664532631	pvalb GABAergic cortical interneuron
+1626	L6 corticothalamic-projecting glutamatergic cortical neuron	0.586357012818469	L6b glutamatergic cortical neuron
+4322	microglial cell	1	microglial cell
+5721	sst GABAergic cortical interneuron	0.478452636782782	caudal ganglionic eminence derived GABAergic cortical interneuron
+1987	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.984797680340699	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2024	L6 corticothalamic-projecting glutamatergic cortical neuron	0.566891007804463	near-projecting glutamatergic cortical neuron
+5493	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.754606750613455	sst GABAergic cortical interneuron
+2958	pvalb GABAergic cortical interneuron	0.583423335546016	near-projecting glutamatergic cortical neuron
+5286	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.648195935680851	L2/3-6 intratelencephalic projecting glutamatergic neuron
+762	caudal ganglionic eminence derived GABAergic cortical interneuron	0.568435770416335	caudal ganglionic eminence derived GABAergic cortical interneuron
+1635	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+5265	sst GABAergic cortical interneuron	0.527775150381454	sst GABAergic cortical interneuron
+2517	oligodendrocyte	1	oligodendrocyte
+396	microglial cell	0.904673153901431	microglial cell
+1111	oligodendrocyte	0.941694296003138	oligodendrocyte
+1815	oligodendrocyte	1	oligodendrocyte
+4482	L5 extratelencephalic projecting glutamatergic cortical neuron	0.886076484156263	L5 extratelencephalic projecting glutamatergic cortical neuron
+1596	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.763061088021047	lamp5 GABAergic cortical interneuron
+6405	near-projecting glutamatergic cortical neuron	0.677467934936888	near-projecting glutamatergic cortical neuron
+2030	sst GABAergic cortical interneuron	0.994832646408943	sst GABAergic cortical interneuron
+917	microglial cell	1	microglial cell
+651	vip GABAergic cortical interneuron	0.983907820207219	vip GABAergic cortical interneuron
+4381	oligodendrocyte	1	oligodendrocyte
+1886	L6 corticothalamic-projecting glutamatergic cortical neuron	0.694129573687375	L6 corticothalamic-projecting glutamatergic cortical neuron
+878	endothelial cell	0.807360221174834	endothelial cell
+3576	astrocyte	0.692853546929274	astrocyte
+1489	lamp5 GABAergic cortical interneuron	0.859380186865611	lamp5 GABAergic cortical interneuron
+3966	L6 corticothalamic-projecting glutamatergic cortical neuron	0.930692244862125	L6 corticothalamic-projecting glutamatergic cortical neuron
+3440	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.584579107808393	sst GABAergic cortical interneuron
+194	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+2314	L6b glutamatergic cortical neuron	0.54929069345809	near-projecting glutamatergic cortical neuron
+1048	oligodendrocyte	1	oligodendrocyte
+665	pvalb GABAergic cortical interneuron	0.458015349947433	sst GABAergic cortical interneuron
+997	sst GABAergic cortical interneuron	0.972045846242131	sst GABAergic cortical interneuron
+2637	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.845596213337644	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4094	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+5500	pvalb GABAergic cortical interneuron	0.964102037463756	pvalb GABAergic cortical interneuron
+1851	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.915483861884611	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3494	L6b glutamatergic cortical neuron	0.526941023585992	L6b glutamatergic cortical neuron
+3154	vip GABAergic cortical interneuron	0.310078965931451	lamp5 GABAergic cortical interneuron
+334	lamp5 GABAergic cortical interneuron	0.715832034482564	lamp5 GABAergic cortical interneuron
+2853	oligodendrocyte	0.396070000285078	microglial cell
+3885	vip GABAergic cortical interneuron	0.925519187341567	vip GABAergic cortical interneuron
+6426	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+5372	lamp5 GABAergic cortical interneuron	0.896629224019161	lamp5 GABAergic cortical interneuron
+213	pvalb GABAergic cortical interneuron	0.829553609842147	L2/3-6 intratelencephalic projecting glutamatergic neuron
+6355	near-projecting glutamatergic cortical neuron	0.938715615441698	near-projecting glutamatergic cortical neuron
+4854	sst GABAergic cortical interneuron	0.981379571989617	sst GABAergic cortical interneuron
+3941	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.762575164560376	L6 corticothalamic-projecting glutamatergic cortical neuron
+4633	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.362132517440926	pvalb GABAergic cortical interneuron
+3439	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+2309	L5 extratelencephalic projecting glutamatergic cortical neuron	0.845826747837247	L5 extratelencephalic projecting glutamatergic cortical neuron
+5978	oligodendrocyte	1	oligodendrocyte
+2742	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+4114	astrocyte	1	astrocyte
+6221	microglial cell	1	microglial cell
+2880	pvalb GABAergic cortical interneuron	0.582439778612628	pvalb GABAergic cortical interneuron
+3056	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.82465664621826	L2/3-6 intratelencephalic projecting glutamatergic neuron
+6536	vip GABAergic cortical interneuron	0.50007060066908	caudal ganglionic eminence derived GABAergic cortical interneuron
+6546	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+2662	oligodendrocyte	1	oligodendrocyte
+5219	vip GABAergic cortical interneuron	0.654930661773695	vip GABAergic cortical interneuron
+949	L6b glutamatergic cortical neuron	0.992448897617459	L6b glutamatergic cortical neuron
+1293	vip GABAergic cortical interneuron	0.980951560589082	vip GABAergic cortical interneuron
+2571	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.484502308503032	pvalb GABAergic cortical interneuron
+3445	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4495	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+4376	oligodendrocyte	1	oligodendrocyte
+101	astrocyte	1	astrocyte
+1617	L6b glutamatergic cortical neuron	0.952987772290276	L6b glutamatergic cortical neuron
+4481	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.971496434446429	L5 extratelencephalic projecting glutamatergic cortical neuron
+701	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.903968056493348	vip GABAergic cortical interneuron
+1944	microglial cell	0.999999999999999	microglial cell
+1410	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.906130399535218	near-projecting glutamatergic cortical neuron
+2235	L6 corticothalamic-projecting glutamatergic cortical neuron	0.590321405755944	L6b glutamatergic cortical neuron
+4338	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+693	vip GABAergic cortical interneuron	0.554419960308987	vip GABAergic cortical interneuron
+5514	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+75	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+2532	pvalb GABAergic cortical interneuron	0.505085150446155	pvalb GABAergic cortical interneuron
+1634	microglial cell	0.505910136843007	microglial cell
+3801	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3205	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+6408	pvalb GABAergic cortical interneuron	0.98302589679004	pvalb GABAergic cortical interneuron
+3788	oligodendrocyte	1	oligodendrocyte
+6461	endothelial cell	0.727470119622197	endothelial cell
+6042	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+1433	caudal ganglionic eminence derived GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+3164	astrocyte	1	astrocyte
+4500	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.552979656805448	vip GABAergic cortical interneuron
+6384	pvalb GABAergic cortical interneuron	0.896913208025081	pvalb GABAergic cortical interneuron
+5269	pericyte	0.626615228383726	pericyte
+2598	astrocyte	1	astrocyte
+2303	near-projecting glutamatergic cortical neuron	0.487276558106755	near-projecting glutamatergic cortical neuron
+4625	L6b glutamatergic cortical neuron	0.986740713951752	L6b glutamatergic cortical neuron
+5677	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.541064527174349	pvalb GABAergic cortical interneuron
+4031	endothelial cell	0.637203889978546	endothelial cell
+3924	near-projecting glutamatergic cortical neuron	0.65731386276735	L6 corticothalamic-projecting glutamatergic cortical neuron
+6142	oligodendrocyte	1	oligodendrocyte
+4539	lamp5 GABAergic cortical interneuron	0.932377539016945	lamp5 GABAergic cortical interneuron
+4080	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+2566	astrocyte	1	astrocyte
+6260	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+2953	lamp5 GABAergic cortical interneuron	0.805169659849444	lamp5 GABAergic cortical interneuron
+1292	microglial cell	1	microglial cell
+2497	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.692575974637212	L6b glutamatergic cortical neuron
+5954	caudal ganglionic eminence derived GABAergic cortical interneuron	0.907332706861638	caudal ganglionic eminence derived GABAergic cortical interneuron
+723	oligodendrocyte	1	oligodendrocyte
+588	L6 corticothalamic-projecting glutamatergic cortical neuron	0.979625079893373	L6 corticothalamic-projecting glutamatergic cortical neuron
+5848	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.412931589362402	oligodendrocyte
+6338	near-projecting glutamatergic cortical neuron	0.999999999999999	near-projecting glutamatergic cortical neuron
+3368	L5 extratelencephalic projecting glutamatergic cortical neuron	0.36726354419797	oligodendrocyte precursor cell
+2692	L6 corticothalamic-projecting glutamatergic cortical neuron	0.459761978761905	L6 corticothalamic-projecting glutamatergic cortical neuron
+1389	caudal ganglionic eminence derived GABAergic cortical interneuron	0.98721211354035	caudal ganglionic eminence derived GABAergic cortical interneuron
+4555	L6 corticothalamic-projecting glutamatergic cortical neuron	0.616626459042991	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3460	L6 corticothalamic-projecting glutamatergic cortical neuron	0.458102996181166	L6b glutamatergic cortical neuron
+2663	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.410589973171253	sst GABAergic cortical interneuron
+1139	astrocyte	1	astrocyte
+180	vip GABAergic cortical interneuron	0.393695358357811	vip GABAergic cortical interneuron
+1163	L6b glutamatergic cortical neuron	0.575241177705579	pvalb GABAergic cortical interneuron
+6465	pvalb GABAergic cortical interneuron	0.609270969974377	astrocyte
+4097	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.411613109181331	L6 corticothalamic-projecting glutamatergic cortical neuron
+4472	L6b glutamatergic cortical neuron	0.703021351920999	L6b glutamatergic cortical neuron
+4652	lamp5 GABAergic cortical interneuron	0.684192590786059	lamp5 GABAergic cortical interneuron
+1424	lamp5 GABAergic cortical interneuron	0.633006334310688	lamp5 GABAergic cortical interneuron
+98	near-projecting glutamatergic cortical neuron	0.947150693415745	near-projecting glutamatergic cortical neuron
+3676	pericyte	0.296162903220717	oligodendrocyte precursor cell
+2899	sst GABAergic cortical interneuron	0.609746283494862	vip GABAergic cortical interneuron
+6488	vip GABAergic cortical interneuron	0.944020363645525	vip GABAergic cortical interneuron
+5171	pvalb GABAergic cortical interneuron	0.650177484695425	pvalb GABAergic cortical interneuron
+350	astrocyte	1	astrocyte
+2076	L6 corticothalamic-projecting glutamatergic cortical neuron	0.983948173436507	L6 corticothalamic-projecting glutamatergic cortical neuron
+5042	near-projecting glutamatergic cortical neuron	0.295965373237188	near-projecting glutamatergic cortical neuron
+886	oligodendrocyte	1	oligodendrocyte
+2979	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.68707985855851	oligodendrocyte precursor cell
+6026	pvalb GABAergic cortical interneuron	0.300365351156229	L2/3-6 intratelencephalic projecting glutamatergic neuron
+6540	astrocyte	0.401358927888181	astrocyte
+981	microglial cell	1	microglial cell
+4240	pvalb GABAergic cortical interneuron	0.772654335915921	pvalb GABAergic cortical interneuron
+2765	L6b glutamatergic cortical neuron	0.796456814165299	L6b glutamatergic cortical neuron
+6414	oligodendrocyte	1	oligodendrocyte
+4038	near-projecting glutamatergic cortical neuron	0.727707062519188	near-projecting glutamatergic cortical neuron
+3657	L6b glutamatergic cortical neuron	0.856440300382156	L6b glutamatergic cortical neuron
+4156	L5 extratelencephalic projecting glutamatergic cortical neuron	0.919724840852774	L5 extratelencephalic projecting glutamatergic cortical neuron
+5	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.56180853997713	lamp5 GABAergic cortical interneuron
+1671	oligodendrocyte precursor cell	0.701658864622462	oligodendrocyte precursor cell
+2126	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.624300251961144	L2/3-6 intratelencephalic projecting glutamatergic neuron
+624	L6 corticothalamic-projecting glutamatergic cortical neuron	0.301761325649422	L6b glutamatergic cortical neuron
+5912	L6b glutamatergic cortical neuron	1	L6b glutamatergic cortical neuron
+4354	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+3403	near-projecting glutamatergic cortical neuron	0.922825608378386	L6b glutamatergic cortical neuron
+1314	L6b glutamatergic cortical neuron	0.790504797971351	L6 corticothalamic-projecting glutamatergic cortical neuron
+1820	microglial cell	1	microglial cell
+1343	lamp5 GABAergic cortical interneuron	0.561931186172404	lamp5 GABAergic cortical interneuron
+758	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+4274	endothelial cell	0.951368911527605	endothelial cell
+630	caudal ganglionic eminence derived GABAergic cortical interneuron	0.76887606213885	caudal ganglionic eminence derived GABAergic cortical interneuron
+4266	vip GABAergic cortical interneuron	0.854792335634969	vip GABAergic cortical interneuron
+4673	L6 corticothalamic-projecting glutamatergic cortical neuron	0.713492089268128	L6 corticothalamic-projecting glutamatergic cortical neuron
+6466	microglial cell	1	microglial cell
+451	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+3799	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+544	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+4586	microglial cell	0.999999999999999	microglial cell
+1118	lamp5 GABAergic cortical interneuron	0.614653792302822	caudal ganglionic eminence derived GABAergic cortical interneuron
+5859	lamp5 GABAergic cortical interneuron	0.985897743129725	lamp5 GABAergic cortical interneuron
+3915	L6 corticothalamic-projecting glutamatergic cortical neuron	0.915359855035108	L6 corticothalamic-projecting glutamatergic cortical neuron
+2009	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1716	microglial cell	1	microglial cell
+5955	L6 corticothalamic-projecting glutamatergic cortical neuron	0.626408023649106	astrocyte
+2424	oligodendrocyte precursor cell	0.973520208733815	oligodendrocyte precursor cell
+827	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+2759	L6b glutamatergic cortical neuron	0.636212422303715	L6 corticothalamic-projecting glutamatergic cortical neuron
+3674	pvalb GABAergic cortical interneuron	0.598086887730028	pvalb GABAergic cortical interneuron
+1405	lamp5 GABAergic cortical interneuron	0.978270044183189	lamp5 GABAergic cortical interneuron
+3188	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+3310	caudal ganglionic eminence derived GABAergic cortical interneuron	0.924760495419808	caudal ganglionic eminence derived GABAergic cortical interneuron
+4835	oligodendrocyte precursor cell	0.974138822880648	oligodendrocyte precursor cell
+4259	microglial cell	1	microglial cell
+5236	oligodendrocyte	1	oligodendrocyte
+5481	pvalb GABAergic cortical interneuron	0.926135060564053	pvalb GABAergic cortical interneuron
+6402	sst GABAergic cortical interneuron	0.662391840920246	sst GABAergic cortical interneuron
+3970	near-projecting glutamatergic cortical neuron	0.673521694878688	near-projecting glutamatergic cortical neuron
+2844	pvalb GABAergic cortical interneuron	0.723155647222075	pvalb GABAergic cortical interneuron
+1345	oligodendrocyte	1	oligodendrocyte
+1536	oligodendrocyte precursor cell	0.941223854318476	oligodendrocyte precursor cell
+3863	near-projecting glutamatergic cortical neuron	0.34891324579797	L6 corticothalamic-projecting glutamatergic cortical neuron
+3632	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.981432219071519	astrocyte
+1130	lamp5 GABAergic cortical interneuron	0.477857321317406	caudal ganglionic eminence derived GABAergic cortical interneuron
+3335	lamp5 GABAergic cortical interneuron	0.516359302236159	lamp5 GABAergic cortical interneuron
+5143	oligodendrocyte	1	oligodendrocyte
+1834	L6b glutamatergic cortical neuron	0.436182556214115	L6b glutamatergic cortical neuron
+4693	oligodendrocyte	1	oligodendrocyte
+3709	astrocyte	1	astrocyte
+3796	microglial cell	1	microglial cell
+2733	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.895193612096699	L2/3-6 intratelencephalic projecting glutamatergic neuron
+763	microglial cell	0.999999999999999	microglial cell
+5571	pvalb GABAergic cortical interneuron	0.635309855228377	pvalb GABAergic cortical interneuron
+1013	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.82530065885701	oligodendrocyte precursor cell
+6525	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+5647	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	vip GABAergic cortical interneuron
+1991	L5 extratelencephalic projecting glutamatergic cortical neuron	0.604475980301708	sst GABAergic cortical interneuron
+445	astrocyte	0.891758786505345	astrocyte
+5897	vip GABAergic cortical interneuron	0.692332927746497	lamp5 GABAergic cortical interneuron
+5412	oligodendrocyte	1	oligodendrocyte
+454	microglial cell	1	microglial cell
+2484	L5 extratelencephalic projecting glutamatergic cortical neuron	0.868368706084314	L5 extratelencephalic projecting glutamatergic cortical neuron
+267	sst GABAergic cortical interneuron	0.95684987906506	sst GABAergic cortical interneuron
+1017	sst GABAergic cortical interneuron	0.840474249668328	sst GABAergic cortical interneuron
+4830	oligodendrocyte precursor cell	0.944400854302666	oligodendrocyte precursor cell
+3734	vip GABAergic cortical interneuron	0.623245987307868	vip GABAergic cortical interneuron
+1645	microglial cell	1	microglial cell
+5054	pvalb GABAergic cortical interneuron	0.999114447430663	pvalb GABAergic cortical interneuron
+49	L6b glutamatergic cortical neuron	0.986694379642942	L6b glutamatergic cortical neuron
+1459	astrocyte	1	astrocyte
+2129	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.591148621848122	L2/3-6 intratelencephalic projecting glutamatergic neuron
+756	sst GABAergic cortical interneuron	0.360591876285244	sst GABAergic cortical interneuron
+4550	pvalb GABAergic cortical interneuron	0.440463082576478	vip GABAergic cortical interneuron
+2068	pvalb GABAergic cortical interneuron	0.578610378644726	astrocyte
+6452	L5 extratelencephalic projecting glutamatergic cortical neuron	0.794242907159365	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5378	microglial cell	1	microglial cell
+1239	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+4706	L6 corticothalamic-projecting glutamatergic cortical neuron	0.552291175505856	near-projecting glutamatergic cortical neuron
+495	sst GABAergic cortical interneuron	0.825906601428171	sst GABAergic cortical interneuron
+3881	L6 corticothalamic-projecting glutamatergic cortical neuron	0.720546240838943	L6 corticothalamic-projecting glutamatergic cortical neuron
+842	L6 corticothalamic-projecting glutamatergic cortical neuron	0.614556889880921	L6 corticothalamic-projecting glutamatergic cortical neuron
+1811	oligodendrocyte precursor cell	0.999999999999999	oligodendrocyte precursor cell
+2869	sst GABAergic cortical interneuron	0.807912233205155	lamp5 GABAergic cortical interneuron
+2690	near-projecting glutamatergic cortical neuron	0.590094904929141	near-projecting glutamatergic cortical neuron
+6071	near-projecting glutamatergic cortical neuron	0.545749680345734	L6b glutamatergic cortical neuron
+3920	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.835020595628835	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5851	microglial cell	1	microglial cell
+3536	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+3715	oligodendrocyte	1	oligodendrocyte
+556	oligodendrocyte	0.95684032336937	oligodendrocyte
+6235	microglial cell	0.778848872499157	microglial cell
+5296	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1096	lamp5 GABAergic cortical interneuron	0.83188870317147	lamp5 GABAergic cortical interneuron
+5490	astrocyte	0.644947760645234	astrocyte
+3065	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+879	vip GABAergic cortical interneuron	0.72445003999264	vip GABAergic cortical interneuron
+2437	caudal ganglionic eminence derived GABAergic cortical interneuron	0.972807517175384	caudal ganglionic eminence derived GABAergic cortical interneuron
+2666	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.569614149796097	astrocyte
+5927	lamp5 GABAergic cortical interneuron	0.827998177819492	lamp5 GABAergic cortical interneuron
+2762	pvalb GABAergic cortical interneuron	0.491339854426844	caudal ganglionic eminence derived GABAergic cortical interneuron
+644	L6b glutamatergic cortical neuron	0.609575442308761	near-projecting glutamatergic cortical neuron
+6077	oligodendrocyte precursor cell	0.899397961722825	oligodendrocyte precursor cell
+1693	microglial cell	1	microglial cell
+5890	sst GABAergic cortical interneuron	0.999999999999999	sst GABAergic cortical interneuron
+2462	caudal ganglionic eminence derived GABAergic cortical interneuron	0.911822360013124	caudal ganglionic eminence derived GABAergic cortical interneuron
+322	L5 extratelencephalic projecting glutamatergic cortical neuron	0.475408329771025	sst GABAergic cortical interneuron
+1036	caudal ganglionic eminence derived GABAergic cortical interneuron	0.875042674316883	caudal ganglionic eminence derived GABAergic cortical interneuron
+5766	L6 corticothalamic-projecting glutamatergic cortical neuron	0.786827657268778	L5 extratelencephalic projecting glutamatergic cortical neuron
+572	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+2156	lamp5 GABAergic cortical interneuron	0.626541837242363	lamp5 GABAergic cortical interneuron
+1363	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+6489	vip GABAergic cortical interneuron	0.901772999777569	vip GABAergic cortical interneuron
+2948	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+1720	vip GABAergic cortical interneuron	0.472793400994941	vip GABAergic cortical interneuron
+4305	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+5898	sst GABAergic cortical interneuron	0.750480166263655	sst GABAergic cortical interneuron
+2350	astrocyte	1	astrocyte
+6306	L6b glutamatergic cortical neuron	0.690663909894739	L6b glutamatergic cortical neuron
+4361	near-projecting glutamatergic cortical neuron	0.664382130349288	near-projecting glutamatergic cortical neuron
+130	sst GABAergic cortical interneuron	0.694559045076669	vip GABAergic cortical interneuron
+337	vip GABAergic cortical interneuron	0.667831070138356	vip GABAergic cortical interneuron
+1039	L6b glutamatergic cortical neuron	0.689546606844142	L6b glutamatergic cortical neuron
+4168	L6b glutamatergic cortical neuron	0.544289911547466	L6b glutamatergic cortical neuron
+1306	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4834	oligodendrocyte precursor cell	0.978783471002031	oligodendrocyte precursor cell
+5018	astrocyte	0.689307453010895	astrocyte
+6012	L6b glutamatergic cortical neuron	0.811015758624745	L5 extratelencephalic projecting glutamatergic cortical neuron
+3281	oligodendrocyte	1	oligodendrocyte
+690	astrocyte	1	astrocyte
+377	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4276	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.910912482920708	lamp5 GABAergic cortical interneuron
+1455	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.859131519352412	L2/3-6 intratelencephalic projecting glutamatergic neuron
+470	lamp5 GABAergic cortical interneuron	0.570668578487513	vip GABAergic cortical interneuron
+2013	L6 corticothalamic-projecting glutamatergic cortical neuron	0.912772107792024	L6b glutamatergic cortical neuron
+3893	L6 corticothalamic-projecting glutamatergic cortical neuron	0.550739170699666	L6 corticothalamic-projecting glutamatergic cortical neuron
+1000	L6 corticothalamic-projecting glutamatergic cortical neuron	0.446969016825481	pvalb GABAergic cortical interneuron
+3015	oligodendrocyte	1	oligodendrocyte
+6203	pvalb GABAergic cortical interneuron	0.934191738525453	pvalb GABAergic cortical interneuron
+551	lamp5 GABAergic cortical interneuron	0.439105627317856	lamp5 GABAergic cortical interneuron
+5874	L6b glutamatergic cortical neuron	0.895491929276096	L6b glutamatergic cortical neuron
+3117	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.970289870179226	sst GABAergic cortical interneuron
+915	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+4561	microglial cell	1	microglial cell
+3859	L6 corticothalamic-projecting glutamatergic cortical neuron	0.84406913821599	L6 corticothalamic-projecting glutamatergic cortical neuron
+1151	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.9839651089407	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3965	L6b glutamatergic cortical neuron	0.599813852691913	L6 corticothalamic-projecting glutamatergic cortical neuron
+4121	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.534535144460158	L6 corticothalamic-projecting glutamatergic cortical neuron
+2751	microglial cell	1	microglial cell
+2680	L6 corticothalamic-projecting glutamatergic cortical neuron	0.674937203647111	lamp5 GABAergic cortical interneuron
+3889	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.921631110731246	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5489	L6 corticothalamic-projecting glutamatergic cortical neuron	0.653741495917817	L6 corticothalamic-projecting glutamatergic cortical neuron
+4341	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.987094842423393	L2/3-6 intratelencephalic projecting glutamatergic neuron
+234	astrocyte	0.997568136050002	astrocyte
+4726	oligodendrocyte	1	oligodendrocyte
+3383	L6b glutamatergic cortical neuron	0.600482853528554	L6 corticothalamic-projecting glutamatergic cortical neuron
+4275	endothelial cell	0.977810326920043	endothelial cell
+5369	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.939636056019572	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2634	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+936	vip GABAergic cortical interneuron	0.754963341780563	lamp5 GABAergic cortical interneuron
+165	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.545794619332413	L6 corticothalamic-projecting glutamatergic cortical neuron
+5101	oligodendrocyte	1	oligodendrocyte
+277	microglial cell	0.603976798712344	microglial cell
+765	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+5367	near-projecting glutamatergic cortical neuron	0.610575339786766	near-projecting glutamatergic cortical neuron
+4564	vip GABAergic cortical interneuron	0.834409045736598	vip GABAergic cortical interneuron
+2636	oligodendrocyte	1	oligodendrocyte
+3959	L6 corticothalamic-projecting glutamatergic cortical neuron	0.887521314902843	L6 corticothalamic-projecting glutamatergic cortical neuron
+3582	oligodendrocyte precursor cell	0.981573865972669	oligodendrocyte precursor cell
+3061	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.977851776021259	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4875	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+1184	oligodendrocyte precursor cell	0.974994550316333	oligodendrocyte precursor cell
+4710	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+485	oligodendrocyte	1	oligodendrocyte
+137	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+5074	astrocyte	1	astrocyte
+5906	L6 corticothalamic-projecting glutamatergic cortical neuron	0.601095020490315	L6b glutamatergic cortical neuron
+5126	astrocyte	0.450344648847956	astrocyte
+6502	astrocyte	1	astrocyte
+5769	L6 corticothalamic-projecting glutamatergic cortical neuron	0.507675995242543	lamp5 GABAergic cortical interneuron
+2641	vip GABAergic cortical interneuron	0.653095247660256	vip GABAergic cortical interneuron
+5751	microglial cell	1	microglial cell
+1032	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.56330495777932	pvalb GABAergic cortical interneuron
+6045	lamp5 GABAergic cortical interneuron	0.520535113121269	sst GABAergic cortical interneuron
+5899	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.922859677783389	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2468	astrocyte	1	astrocyte
+3520	near-projecting glutamatergic cortical neuron	0.645394145752024	near-projecting glutamatergic cortical neuron
+2445	lamp5 GABAergic cortical interneuron	0.799565896727596	lamp5 GABAergic cortical interneuron
+6089	vip GABAergic cortical interneuron	0.953886191837784	vip GABAergic cortical interneuron
+2720	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.517628605934779	microglial cell
+2346	lamp5 GABAergic cortical interneuron	0.486383858572706	lamp5 GABAergic cortical interneuron
+5931	astrocyte	0.595831886085118	astrocyte
+1158	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4984	L5 extratelencephalic projecting glutamatergic cortical neuron	0.595335306337788	L5 extratelencephalic projecting glutamatergic cortical neuron
+3468	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+971	vip GABAergic cortical interneuron	0.705127158006759	vip GABAergic cortical interneuron
+1071	L5 extratelencephalic projecting glutamatergic cortical neuron	1	L5 extratelencephalic projecting glutamatergic cortical neuron
+1065	oligodendrocyte precursor cell	0.896690571065798	oligodendrocyte precursor cell
+81	sst GABAergic cortical interneuron	0.994243147807197	sst GABAergic cortical interneuron
+5604	L5 extratelencephalic projecting glutamatergic cortical neuron	0.449485153254347	pvalb GABAergic cortical interneuron
+3565	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.393484926608276	L5 extratelencephalic projecting glutamatergic cortical neuron
+504	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+2914	L6b glutamatergic cortical neuron	0.669494484312523	near-projecting glutamatergic cortical neuron
+1739	vip GABAergic cortical interneuron	0.427615874380796	vip GABAergic cortical interneuron
+5590	astrocyte	1	astrocyte
+259	astrocyte	0.690211539354016	astrocyte
+1699	L6b glutamatergic cortical neuron	0.620272842168525	L6b glutamatergic cortical neuron
+539	near-projecting glutamatergic cortical neuron	0.828880034490147	pvalb GABAergic cortical interneuron
+6066	microglial cell	1	microglial cell
+3729	oligodendrocyte	1	oligodendrocyte
+5686	astrocyte	1	astrocyte
+1988	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.702650748826201	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3009	oligodendrocyte	1	oligodendrocyte
+103	near-projecting glutamatergic cortical neuron	1	vip GABAergic cortical interneuron
+1278	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+3642	L6 corticothalamic-projecting glutamatergic cortical neuron	0.820870002717831	L6 corticothalamic-projecting glutamatergic cortical neuron
+912	sst GABAergic cortical interneuron	0.573910722548312	near-projecting glutamatergic cortical neuron
+2830	microglial cell	1	microglial cell
+3782	astrocyte	1	astrocyte
+4913	L6 corticothalamic-projecting glutamatergic cortical neuron	0.844277130266769	L6 corticothalamic-projecting glutamatergic cortical neuron
+4280	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5946	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.833123448045622	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2714	oligodendrocyte	1	oligodendrocyte
+6182	pvalb GABAergic cortical interneuron	0.508996365536773	pvalb GABAergic cortical interneuron
+1382	lamp5 GABAergic cortical interneuron	0.84184414636575	lamp5 GABAergic cortical interneuron
+2582	lamp5 GABAergic cortical interneuron	0.711914288038681	lamp5 GABAergic cortical interneuron
+4143	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4812	oligodendrocyte	1	oligodendrocyte
+3677	L6b glutamatergic cortical neuron	0.952137493400196	L6b glutamatergic cortical neuron
+5444	L6b glutamatergic cortical neuron	0.747318791409269	L6b glutamatergic cortical neuron
+1764	oligodendrocyte	1	oligodendrocyte
+6240	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.994329098475911	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5109	astrocyte	0.909649244942547	astrocyte
+3266	pvalb GABAergic cortical interneuron	0.437953025944587	sst GABAergic cortical interneuron
+4416	oligodendrocyte	1	oligodendrocyte
+2489	caudal ganglionic eminence derived GABAergic cortical interneuron	0.653819876205725	caudal ganglionic eminence derived GABAergic cortical interneuron
+2067	L6b glutamatergic cortical neuron	0.787042476875933	near-projecting glutamatergic cortical neuron
+1789	L6b glutamatergic cortical neuron	1	L6b glutamatergic cortical neuron
+5844	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+6261	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.573274676945474	oligodendrocyte precursor cell
+1186	oligodendrocyte precursor cell	0.846806214840871	oligodendrocyte precursor cell
+2896	sst GABAergic cortical interneuron	0.78883828040464	lamp5 GABAergic cortical interneuron
+2755	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+5456	oligodendrocyte	1	oligodendrocyte
+3834	L6 corticothalamic-projecting glutamatergic cortical neuron	0.547643534296916	L6 corticothalamic-projecting glutamatergic cortical neuron
+4683	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.481706084145731	oligodendrocyte precursor cell
+6448	oligodendrocyte	1	oligodendrocyte
+4490	pvalb GABAergic cortical interneuron	0.445358720319067	vip GABAergic cortical interneuron
+6537	caudal ganglionic eminence derived GABAergic cortical interneuron	0.854450645351395	caudal ganglionic eminence derived GABAergic cortical interneuron
+3134	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+506	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+3911	L6b glutamatergic cortical neuron	0.750524273786595	L6b glutamatergic cortical neuron
+2673	pvalb GABAergic cortical interneuron	0.608157543798459	pvalb GABAergic cortical interneuron
+1392	L6b glutamatergic cortical neuron	0.990189954136652	L6b glutamatergic cortical neuron
+6056	pvalb GABAergic cortical interneuron	0.986795841170906	pvalb GABAergic cortical interneuron
+4923	microglial cell	1	microglial cell
+4632	L6 corticothalamic-projecting glutamatergic cortical neuron	0.942993808183195	L6 corticothalamic-projecting glutamatergic cortical neuron
+174	L6 corticothalamic-projecting glutamatergic cortical neuron	0.510181079054749	L6 corticothalamic-projecting glutamatergic cortical neuron
+3173	astrocyte	0.715640805114666	astrocyte
+2803	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+1094	near-projecting glutamatergic cortical neuron	0.609579208000498	near-projecting glutamatergic cortical neuron
+6585	microglial cell	1	microglial cell
+1110	pvalb GABAergic cortical interneuron	0.670793081145984	sst GABAergic cortical interneuron
+6389	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.835199165013956	microglial cell
+3493	near-projecting glutamatergic cortical neuron	0.535041823925514	near-projecting glutamatergic cortical neuron
+6313	oligodendrocyte	1	oligodendrocyte
+367	pvalb GABAergic cortical interneuron	0.759263764429586	vip GABAergic cortical interneuron
+926	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+2418	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.881677001132533	oligodendrocyte
+713	astrocyte	0.985007798293346	astrocyte
+2882	vip GABAergic cortical interneuron	0.986369954020182	vip GABAergic cortical interneuron
+2860	astrocyte	1	astrocyte
+5368	vip GABAergic cortical interneuron	0.655536081193765	vip GABAergic cortical interneuron
+3844	L6 corticothalamic-projecting glutamatergic cortical neuron	1	L6 corticothalamic-projecting glutamatergic cortical neuron
+4034	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.634408132494104	pvalb GABAergic cortical interneuron
+5407	microglial cell	1	microglial cell
+4918	astrocyte	1	astrocyte
+1557	lamp5 GABAergic cortical interneuron	0.565722104199594	caudal ganglionic eminence derived GABAergic cortical interneuron
+69	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+4709	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+2259	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.965002436459592	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4829	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+5527	lamp5 GABAergic cortical interneuron	0.470099662656605	lamp5 GABAergic cortical interneuron
+1307	vip GABAergic cortical interneuron	0.670316683565773	vip GABAergic cortical interneuron
+3663	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.59710588934374	L2/3-6 intratelencephalic projecting glutamatergic neuron
+384	lamp5 GABAergic cortical interneuron	0.596542164539271	vip GABAergic cortical interneuron
+1931	lamp5 GABAergic cortical interneuron	0.922570435692716	lamp5 GABAergic cortical interneuron
+468	lamp5 GABAergic cortical interneuron	0.972401525047661	lamp5 GABAergic cortical interneuron
+5593	microglial cell	1	microglial cell
+4392	L6b glutamatergic cortical neuron	0.724578389321752	L6b glutamatergic cortical neuron
+4177	oligodendrocyte	0.657328610356084	oligodendrocyte
+1217	microglial cell	1	microglial cell
+4184	near-projecting glutamatergic cortical neuron	0.741310414596715	L6 corticothalamic-projecting glutamatergic cortical neuron
+4408	microglial cell	1	microglial cell
+2169	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+2348	L5 extratelencephalic projecting glutamatergic cortical neuron	1	L5 extratelencephalic projecting glutamatergic cortical neuron
+1706	vip GABAergic cortical interneuron	0.369970352523545	lamp5 GABAergic cortical interneuron
+5124	oligodendrocyte precursor cell	0.975999496940651	oligodendrocyte precursor cell
+4502	endothelial cell	0.525166186030969	endothelial cell
+4792	pvalb GABAergic cortical interneuron	0.748654428478407	pvalb GABAergic cortical interneuron
+2253	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+6107	astrocyte	1	astrocyte
+2504	caudal ganglionic eminence derived GABAergic cortical interneuron	0.674959754288799	caudal ganglionic eminence derived GABAergic cortical interneuron
+6169	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+3846	L6 corticothalamic-projecting glutamatergic cortical neuron	0.601664770792135	L6 corticothalamic-projecting glutamatergic cortical neuron
+5544	oligodendrocyte	1	oligodendrocyte
+268	oligodendrocyte precursor cell	0.979595068706757	lamp5 GABAergic cortical interneuron
+4864	oligodendrocyte	1	oligodendrocyte
+4243	microglial cell	1	microglial cell
+4377	sst GABAergic cortical interneuron	0.999999999999999	sst GABAergic cortical interneuron
+6189	oligodendrocyte	1	oligodendrocyte
+1619	oligodendrocyte precursor cell	0.97992988581882	oligodendrocyte precursor cell
+1272	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+1380	vip GABAergic cortical interneuron	0.995159236842636	vip GABAergic cortical interneuron
+5795	microglial cell	1	microglial cell
+4185	astrocyte	0.629466770553577	astrocyte
+5553	caudal ganglionic eminence derived GABAergic cortical interneuron	0.463004791331151	lamp5 GABAergic cortical interneuron
+4592	pvalb GABAergic cortical interneuron	0.404938894394749	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1882	astrocyte	1	astrocyte
+789	near-projecting glutamatergic cortical neuron	0.615016861653205	near-projecting glutamatergic cortical neuron
+1326	oligodendrocyte	1	oligodendrocyte
+1431	microglial cell	0.998041643664383	microglial cell
+872	L6 corticothalamic-projecting glutamatergic cortical neuron	0.847485052299904	L6b glutamatergic cortical neuron
+797	pvalb GABAergic cortical interneuron	0.630110405057625	caudal ganglionic eminence derived GABAergic cortical interneuron
+4537	astrocyte	0.983568604687707	astrocyte
+1643	L6b glutamatergic cortical neuron	1	L6b glutamatergic cortical neuron
+6131	pvalb GABAergic cortical interneuron	0.518809530451445	pvalb GABAergic cortical interneuron
+4326	oligodendrocyte	1	oligodendrocyte
+2396	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+5816	L6 corticothalamic-projecting glutamatergic cortical neuron	0.957986661551938	L6 corticothalamic-projecting glutamatergic cortical neuron
+190	vip GABAergic cortical interneuron	0.743613343852147	caudal ganglionic eminence derived GABAergic cortical interneuron
+3332	astrocyte	1	astrocyte
+3038	microglial cell	1	microglial cell
+3567	oligodendrocyte precursor cell	0.970519680721654	oligodendrocyte precursor cell
+3825	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.433895720155038	L6 corticothalamic-projecting glutamatergic cortical neuron
+8	L6b glutamatergic cortical neuron	0.537781816081016	L6b glutamatergic cortical neuron
+3181	pvalb GABAergic cortical interneuron	0.671689412990971	L2/3-6 intratelencephalic projecting glutamatergic neuron
+6533	astrocyte	1	astrocyte
+2373	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+1809	L6 corticothalamic-projecting glutamatergic cortical neuron	0.961381144499855	L6 corticothalamic-projecting glutamatergic cortical neuron
+4826	oligodendrocyte	1	oligodendrocyte
+2096	pvalb GABAergic cortical interneuron	0.994365842094718	pvalb GABAergic cortical interneuron
+4575	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+4210	lamp5 GABAergic cortical interneuron	0.904335608983377	near-projecting glutamatergic cortical neuron
+1702	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.537414526261786	endothelial cell
+910	pvalb GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+2768	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+1454	microglial cell	0.946105329754011	microglial cell
+5702	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+959	L6b glutamatergic cortical neuron	0.516369273402078	sst GABAergic cortical interneuron
+3127	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+4522	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.575116437196719	vip GABAergic cortical interneuron
+4283	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.988158637699614	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3649	lamp5 GABAergic cortical interneuron	0.895448014298682	lamp5 GABAergic cortical interneuron
+1609	near-projecting glutamatergic cortical neuron	0.344632894055828	lamp5 GABAergic cortical interneuron
+4988	L6 corticothalamic-projecting glutamatergic cortical neuron	0.917237564709759	L6 corticothalamic-projecting glutamatergic cortical neuron
+2567	pvalb GABAergic cortical interneuron	0.983650540231745	pvalb GABAergic cortical interneuron
+5445	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+4570	sst GABAergic cortical interneuron	0.967243963931371	sst GABAergic cortical interneuron
+6572	L6b glutamatergic cortical neuron	0.985423597617811	sst GABAergic cortical interneuron
+2660	astrocyte	0.715998641090254	astrocyte
+774	microglial cell	1	microglial cell
+2432	oligodendrocyte precursor cell	0.9836073995148	oligodendrocyte precursor cell
+6430	astrocyte	1	astrocyte
+5082	L6 corticothalamic-projecting glutamatergic cortical neuron	0.763112776824213	L6 corticothalamic-projecting glutamatergic cortical neuron
+404	L6 corticothalamic-projecting glutamatergic cortical neuron	0.912583935935385	near-projecting glutamatergic cortical neuron
+3658	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.80538798755421	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3262	L6b glutamatergic cortical neuron	0.718036987431794	L6 corticothalamic-projecting glutamatergic cortical neuron
+1238	pvalb GABAergic cortical interneuron	0.896220387057991	pvalb GABAergic cortical interneuron
+1593	lamp5 GABAergic cortical interneuron	0.957636376295112	lamp5 GABAergic cortical interneuron
+5129	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.443436133354629	lamp5 GABAergic cortical interneuron
+4671	L6b glutamatergic cortical neuron	0.781049157929919	near-projecting glutamatergic cortical neuron
+4012	microglial cell	0.997052086022273	microglial cell
+1295	pvalb GABAergic cortical interneuron	0.881507444326226	vip GABAergic cortical interneuron
+5681	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.787623643544832	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1346	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+386	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+2601	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+55	oligodendrocyte	1	oligodendrocyte
+537	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4480	L5 extratelencephalic projecting glutamatergic cortical neuron	0.676604275250787	L5 extratelencephalic projecting glutamatergic cortical neuron
+3752	astrocyte	1	astrocyte
+698	vascular leptomeningeal cell	0.676742845556514	vascular leptomeningeal cell
+1396	vip GABAergic cortical interneuron	0.685751785503574	vip GABAergic cortical interneuron
+5519	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5802	oligodendrocyte	1	oligodendrocyte
+127	oligodendrocyte	1	astrocyte
+4195	L6 corticothalamic-projecting glutamatergic cortical neuron	0.950925147516524	L6 corticothalamic-projecting glutamatergic cortical neuron
+6211	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+397	vip GABAergic cortical interneuron	0.747186900815055	vip GABAergic cortical interneuron
+6515	pvalb GABAergic cortical interneuron	0.906299825610082	pvalb GABAergic cortical interneuron
+3590	pvalb GABAergic cortical interneuron	0.825258745671883	pvalb GABAergic cortical interneuron
+5597	sst GABAergic cortical interneuron	0.905951554641905	sst GABAergic cortical interneuron
+4758	oligodendrocyte	1	oligodendrocyte
+3022	microglial cell	1	microglial cell
+3969	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.98997706070173	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2036	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.660085306710818	L6 corticothalamic-projecting glutamatergic cortical neuron
+2005	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.607346405985788	astrocyte
+5547	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1211	sst GABAergic cortical interneuron	0.993185293572546	sst GABAergic cortical interneuron
+4370	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+4039	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+875	astrocyte	1	astrocyte
+2007	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.59728655085643	L6 corticothalamic-projecting glutamatergic cortical neuron
+745	oligodendrocyte	1	oligodendrocyte
+1052	oligodendrocyte	1	oligodendrocyte
+1210	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+2240	microglial cell	1	microglial cell
+2968	oligodendrocyte	1	oligodendrocyte
+6245	L6b glutamatergic cortical neuron	0.544482522318815	L6b glutamatergic cortical neuron
+3446	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.777767801602858	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3697	vip GABAergic cortical interneuron	0.686633925421433	caudal ganglionic eminence derived GABAergic cortical interneuron
+3988	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+270	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+2889	oligodendrocyte	1	oligodendrocyte
+1833	L6 corticothalamic-projecting glutamatergic cortical neuron	0.759763660171721	L6b glutamatergic cortical neuron
+4549	vip GABAergic cortical interneuron	0.908286076527727	lamp5 GABAergic cortical interneuron
+2538	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+5458	L6b glutamatergic cortical neuron	0.551244452087056	L6b glutamatergic cortical neuron
+3543	L6 corticothalamic-projecting glutamatergic cortical neuron	0.647045239139242	near-projecting glutamatergic cortical neuron
+5494	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+5011	oligodendrocyte	1	oligodendrocyte
+319	vip GABAergic cortical interneuron	0.595992808561002	vip GABAergic cortical interneuron
+4813	L6 corticothalamic-projecting glutamatergic cortical neuron	0.566967757020389	L6 corticothalamic-projecting glutamatergic cortical neuron
+3843	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.982548425725369	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5663	microglial cell	1	microglial cell
+4450	near-projecting glutamatergic cortical neuron	0.977958036368729	near-projecting glutamatergic cortical neuron
+1367	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+1496	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+6397	L6b glutamatergic cortical neuron	0.537219227481936	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4865	microglial cell	0.999999999999999	microglial cell
+6120	oligodendrocyte	0.800196615042207	oligodendrocyte
+2942	oligodendrocyte	1	oligodendrocyte
+2696	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.822661849347452	L6 corticothalamic-projecting glutamatergic cortical neuron
+5613	astrocyte	0.5961587949784	astrocyte
+5045	sst GABAergic cortical interneuron	0.67875054148924	sst GABAergic cortical interneuron
+685	caudal ganglionic eminence derived GABAergic cortical interneuron	0.370506596178585	caudal ganglionic eminence derived GABAergic cortical interneuron
+1982	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4312	sst GABAergic cortical interneuron	0.747844134553353	sst GABAergic cortical interneuron
+2757	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+6367	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.62112176884959	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2273	L6b glutamatergic cortical neuron	0.981421744355112	L6b glutamatergic cortical neuron
+3432	L6b glutamatergic cortical neuron	0.916933523022529	L6b glutamatergic cortical neuron
+928	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.705617711420248	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4791	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.823995532092462	pvalb GABAergic cortical interneuron
+3629	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3894	L6 corticothalamic-projecting glutamatergic cortical neuron	1	L6 corticothalamic-projecting glutamatergic cortical neuron
+4043	L6 corticothalamic-projecting glutamatergic cortical neuron	0.883182636824772	L6 corticothalamic-projecting glutamatergic cortical neuron
+5710	oligodendrocyte precursor cell	0.836195005272596	oligodendrocyte precursor cell
+4196	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+1929	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+497	microglial cell	1	microglial cell
+2754	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.736054073335948	L6b glutamatergic cortical neuron
+2910	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+5836	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+2090	near-projecting glutamatergic cortical neuron	0.824614033119293	L6b glutamatergic cortical neuron
+4996	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+1414	sst GABAergic cortical interneuron	0.926446359902918	oligodendrocyte precursor cell
+5598	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+786	L5 extratelencephalic projecting glutamatergic cortical neuron	0.675856062519107	vip GABAergic cortical interneuron
+4260	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+2509	oligodendrocyte	1	oligodendrocyte
+3926	L6 corticothalamic-projecting glutamatergic cortical neuron	1	L6 corticothalamic-projecting glutamatergic cortical neuron
+1397	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.52433293816643	vip GABAergic cortical interneuron
+3759	caudal ganglionic eminence derived GABAergic cortical interneuron	0.471476636030708	caudal ganglionic eminence derived GABAergic cortical interneuron
+2651	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+4030	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.989679583678443	near-projecting glutamatergic cortical neuron
+1905	L6 corticothalamic-projecting glutamatergic cortical neuron	0.439028098303265	sst GABAergic cortical interneuron
+58	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+2329	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.893487515125408	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3712	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.465265422874707	oligodendrocyte
+2798	L6 corticothalamic-projecting glutamatergic cortical neuron	0.898158281990267	L6 corticothalamic-projecting glutamatergic cortical neuron
+2682	microglial cell	1	microglial cell
+4991	L6b glutamatergic cortical neuron	0.365888293069852	near-projecting glutamatergic cortical neuron
+5760	sst GABAergic cortical interneuron	0.37806924441723	vip GABAergic cortical interneuron
+6204	sst GABAergic cortical interneuron	0.981709726139671	sst GABAergic cortical interneuron
+2099	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2142	near-projecting glutamatergic cortical neuron	0.414284416042376	near-projecting glutamatergic cortical neuron
+6575	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.515583272957783	astrocyte
+6582	vip GABAergic cortical interneuron	0.348102619105929	sst GABAergic cortical interneuron
+5473	L6 corticothalamic-projecting glutamatergic cortical neuron	0.895047610584552	L6 corticothalamic-projecting glutamatergic cortical neuron
+4218	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3157	near-projecting glutamatergic cortical neuron	0.617134215352779	L6b glutamatergic cortical neuron
+164	oligodendrocyte	0.93192388833618	astrocyte
+3280	caudal ganglionic eminence derived GABAergic cortical interneuron	0.963663300738258	caudal ganglionic eminence derived GABAergic cortical interneuron
+549	near-projecting glutamatergic cortical neuron	0.540224629173931	near-projecting glutamatergic cortical neuron
+1357	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+6113	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+6091	oligodendrocyte precursor cell	0.834091286596419	oligodendrocyte precursor cell
+1182	L6b glutamatergic cortical neuron	0.545175429940517	L6b glutamatergic cortical neuron
+3647	near-projecting glutamatergic cortical neuron	0.786740102573393	L6 corticothalamic-projecting glutamatergic cortical neuron
+4971	sst GABAergic cortical interneuron	0.769756073150276	sst GABAergic cortical interneuron
+2593	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+6490	astrocyte	1	astrocyte
+2859	lamp5 GABAergic cortical interneuron	0.898548736927193	caudal ganglionic eminence derived GABAergic cortical interneuron
+5595	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+2191	microglial cell	1	microglial cell
+3352	vip GABAergic cortical interneuron	0.765034187993077	caudal ganglionic eminence derived GABAergic cortical interneuron
+1765	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+6559	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+1134	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.61693136126419	vip GABAergic cortical interneuron
+5856	L6 corticothalamic-projecting glutamatergic cortical neuron	0.678103911116594	L6 corticothalamic-projecting glutamatergic cortical neuron
+6385	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.416012798390857	microglial cell
+4700	oligodendrocyte	0.996195444833488	oligodendrocyte
+1777	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.971155648402252	L5 extratelencephalic projecting glutamatergic cortical neuron
+4163	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+240	near-projecting glutamatergic cortical neuron	0.890696876649428	near-projecting glutamatergic cortical neuron
+6512	astrocyte	0.745464377832148	astrocyte
+4068	pvalb GABAergic cortical interneuron	0.516853901779813	pvalb GABAergic cortical interneuron
+2419	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+6067	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1598	lamp5 GABAergic cortical interneuron	0.994057187285725	lamp5 GABAergic cortical interneuron
+3482	L6b glutamatergic cortical neuron	0.932178911423883	L6b glutamatergic cortical neuron
+3017	L6 corticothalamic-projecting glutamatergic cortical neuron	0.735114904848056	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4852	lamp5 GABAergic cortical interneuron	0.582010509428001	vip GABAergic cortical interneuron
+3792	oligodendrocyte	1	oligodendrocyte
+5557	astrocyte	1	astrocyte
+4357	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.717163593763194	oligodendrocyte
+5121	astrocyte	1	astrocyte
+5620	sst GABAergic cortical interneuron	0.916499005402636	caudal ganglionic eminence derived GABAergic cortical interneuron
+289	vip GABAergic cortical interneuron	0.872275956452426	vip GABAergic cortical interneuron
+5134	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.824661472776215	L6b glutamatergic cortical neuron
+1692	oligodendrocyte precursor cell	0.894522284707201	oligodendrocyte precursor cell
+5600	near-projecting glutamatergic cortical neuron	0.995621762509082	near-projecting glutamatergic cortical neuron
+5061	near-projecting glutamatergic cortical neuron	0.781245970899218	near-projecting glutamatergic cortical neuron
+1662	L6 corticothalamic-projecting glutamatergic cortical neuron	0.665307180471305	L6 corticothalamic-projecting glutamatergic cortical neuron
+5149	vip GABAergic cortical interneuron	0.606514381606042	vip GABAergic cortical interneuron
+704	sst GABAergic cortical interneuron	0.917808574499672	sst GABAergic cortical interneuron
+4810	microglial cell	0.999999999999999	microglial cell
+5476	L6 corticothalamic-projecting glutamatergic cortical neuron	0.942054776373468	L6 corticothalamic-projecting glutamatergic cortical neuron
+1707	caudal ganglionic eminence derived GABAergic cortical interneuron	0.503729454965957	caudal ganglionic eminence derived GABAergic cortical interneuron
+3804	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	oligodendrocyte precursor cell
+4986	microglial cell	1	microglial cell
+5605	astrocyte	0.7595361882644	astrocyte
+3073	vip GABAergic cortical interneuron	0.959759545770473	vip GABAergic cortical interneuron
+1932	astrocyte	0.305994846572257	astrocyte
+99	L6 corticothalamic-projecting glutamatergic cortical neuron	0.401209404115225	near-projecting glutamatergic cortical neuron
+5264	oligodendrocyte	1	oligodendrocyte
+565	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+5602	pvalb GABAergic cortical interneuron	0.857835893956953	pvalb GABAergic cortical interneuron
+1940	L6b glutamatergic cortical neuron	0.753934540599718	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3351	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+5976	astrocyte	0.999999999999999	astrocyte
+5354	vip GABAergic cortical interneuron	0.94415728037696	vip GABAergic cortical interneuron
+1926	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.999999999999999	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3723	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+5235	oligodendrocyte	1	oligodendrocyte
+5360	microglial cell	1	microglial cell
+1190	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+6249	microglial cell	1	microglial cell
+4033	sst GABAergic cortical interneuron	0.738705928273711	pvalb GABAergic cortical interneuron
+3587	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.959336041052017	oligodendrocyte precursor cell
+1575	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.526773204976312	L6b glutamatergic cortical neuron
+1896	microglial cell	1	microglial cell
+1246	oligodendrocyte	1	oligodendrocyte
+2913	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+4346	microglial cell	1	microglial cell
+4862	astrocyte	1	astrocyte
+2849	microglial cell	1	microglial cell
+3225	sst GABAergic cortical interneuron	0.757131073683757	sst GABAergic cortical interneuron
+2845	vip GABAergic cortical interneuron	0.924807625578325	vip GABAergic cortical interneuron
+5433	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+1521	vip GABAergic cortical interneuron	0.485968396686875	caudal ganglionic eminence derived GABAergic cortical interneuron
+3245	near-projecting glutamatergic cortical neuron	0.865349582606254	near-projecting glutamatergic cortical neuron
+2139	pvalb GABAergic cortical interneuron	0.852215486828417	lamp5 GABAergic cortical interneuron
+5418	L5 extratelencephalic projecting glutamatergic cortical neuron	0.503899503004328	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3906	pvalb GABAergic cortical interneuron	0.920531012368756	pvalb GABAergic cortical interneuron
+5346	astrocyte	1	astrocyte
+4105	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+3973	L6 corticothalamic-projecting glutamatergic cortical neuron	1	L6 corticothalamic-projecting glutamatergic cortical neuron
+4953	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.538334745327135	astrocyte
+4088	L6b glutamatergic cortical neuron	0.657810919318079	L6b glutamatergic cortical neuron
+5380	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+3489	oligodendrocyte precursor cell	0.644425352950431	oligodendrocyte precursor cell
+1821	L6b glutamatergic cortical neuron	0.847197614518614	L6b glutamatergic cortical neuron
+5840	astrocyte	1	astrocyte
+4844	microglial cell	0.999999999999999	microglial cell
+187	caudal ganglionic eminence derived GABAergic cortical interneuron	0.678105330584895	caudal ganglionic eminence derived GABAergic cortical interneuron
+4453	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+3448	sst GABAergic cortical interneuron	0.961141346509726	sst GABAergic cortical interneuron
+995	vip GABAergic cortical interneuron	0.872284609529164	vip GABAergic cortical interneuron
+5168	vip GABAergic cortical interneuron	0.492417650762875	sst GABAergic cortical interneuron
+330	oligodendrocyte	1	oligodendrocyte
+4878	sst GABAergic cortical interneuron	0.999999999999999	sst GABAergic cortical interneuron
+1024	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+5164	astrocyte	1	astrocyte
+6178	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.814511802056607	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2022	pvalb GABAergic cortical interneuron	0.973059111613765	pvalb GABAergic cortical interneuron
+3024	lamp5 GABAergic cortical interneuron	0.933002492871072	lamp5 GABAergic cortical interneuron
+4040	oligodendrocyte	1	oligodendrocyte
+2932	pvalb GABAergic cortical interneuron	0.472903812306042	L6b glutamatergic cortical neuron
+6485	L6b glutamatergic cortical neuron	0.628866152954479	L6 corticothalamic-projecting glutamatergic cortical neuron
+781	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.383303287440185	oligodendrocyte precursor cell
+911	sst GABAergic cortical interneuron	0.931676647894474	sst GABAergic cortical interneuron
+3304	pvalb GABAergic cortical interneuron	0.710438074302984	lamp5 GABAergic cortical interneuron
+2831	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+5472	oligodendrocyte	1	oligodendrocyte
+3822	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4515	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+398	microglial cell	1	microglial cell
+6256	oligodendrocyte	1	oligodendrocyte
+1729	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+2324	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4434	sst GABAergic cortical interneuron	0.93198653040405	near-projecting glutamatergic cortical neuron
+5446	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.730103649337878	L6b glutamatergic cortical neuron
+442	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+1287	microglial cell	0.820764273269738	microglial cell
+4604	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+5759	sst GABAergic cortical interneuron	0.990985793485406	caudal ganglionic eminence derived GABAergic cortical interneuron
+1906	L6b glutamatergic cortical neuron	0.52944573072405	L6 corticothalamic-projecting glutamatergic cortical neuron
+1641	vip GABAergic cortical interneuron	0.898173010783467	vip GABAergic cortical interneuron
+4933	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+4642	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.675651064606312	pvalb GABAergic cortical interneuron
+2718	caudal ganglionic eminence derived GABAergic cortical interneuron	0.369027018304147	vip GABAergic cortical interneuron
+2816	vip GABAergic cortical interneuron	0.986508565165894	vip GABAergic cortical interneuron
+4309	L6b glutamatergic cortical neuron	0.765799271104378	L6b glutamatergic cortical neuron
+2212	caudal ganglionic eminence derived GABAergic cortical interneuron	0.446414674351474	caudal ganglionic eminence derived GABAergic cortical interneuron
+4778	sst GABAergic cortical interneuron	0.984060310943526	sst GABAergic cortical interneuron
+6180	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3355	vip GABAergic cortical interneuron	0.750779628382555	caudal ganglionic eminence derived GABAergic cortical interneuron
+5659	oligodendrocyte	1	oligodendrocyte
+2296	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+6085	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4089	L6 corticothalamic-projecting glutamatergic cortical neuron	0.397893478205244	L6b glutamatergic cortical neuron
+4580	endothelial cell	0.949347863891306	endothelial cell
+1280	microglial cell	1	microglial cell
+5810	microglial cell	0.43963898839759	microglial cell
+3535	L6b glutamatergic cortical neuron	1	L6b glutamatergic cortical neuron
+2236	L6b glutamatergic cortical neuron	0.602468578406851	L6b glutamatergic cortical neuron
+1584	L6 corticothalamic-projecting glutamatergic cortical neuron	0.59229611082145	L6b glutamatergic cortical neuron
+126	pvalb GABAergic cortical interneuron	0.812629717853458	pvalb GABAergic cortical interneuron
+5740	oligodendrocyte	1	oligodendrocyte
+5195	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+673	astrocyte	1	astrocyte
+2776	oligodendrocyte precursor cell	0.666264310562744	oligodendrocyte precursor cell
+3036	microglial cell	0.866525166495384	microglial cell
+3027	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+6576	sst GABAergic cortical interneuron	0.99741056296626	sst GABAergic cortical interneuron
+2935	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.841612959314953	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4816	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.438559498809868	lamp5 GABAergic cortical interneuron
+1732	near-projecting glutamatergic cortical neuron	0.922150941230917	L6b glutamatergic cortical neuron
+1710	astrocyte	1	astrocyte
+5965	L6 corticothalamic-projecting glutamatergic cortical neuron	0.659708536856752	L6 corticothalamic-projecting glutamatergic cortical neuron
+6214	microglial cell	1	microglial cell
+1728	vascular leptomeningeal cell	0.697753557945997	vascular leptomeningeal cell
+2452	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+1037	microglial cell	1	microglial cell
+1534	L6 corticothalamic-projecting glutamatergic cortical neuron	0.837005641745218	L6 corticothalamic-projecting glutamatergic cortical neuron
+4922	vip GABAergic cortical interneuron	0.68783247382695	vip GABAergic cortical interneuron
+6146	pvalb GABAergic cortical interneuron	0.988243374810041	pvalb GABAergic cortical interneuron
+6094	microglial cell	1	microglial cell
+6081	oligodendrocyte	1	oligodendrocyte
+1328	microglial cell	1	microglial cell
+2085	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+3191	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.904077331199726	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4685	lamp5 GABAergic cortical interneuron	0.555351372997837	lamp5 GABAergic cortical interneuron
+3216	near-projecting glutamatergic cortical neuron	0.606663980268664	near-projecting glutamatergic cortical neuron
+4713	L6b glutamatergic cortical neuron	0.545508417717226	L5 extratelencephalic projecting glutamatergic cortical neuron
+2631	L6b glutamatergic cortical neuron	1	L6 corticothalamic-projecting glutamatergic cortical neuron
+5144	L6 corticothalamic-projecting glutamatergic cortical neuron	0.719989196475042	L6 corticothalamic-projecting glutamatergic cortical neuron
+1836	L6b glutamatergic cortical neuron	1	L6 corticothalamic-projecting glutamatergic cortical neuron
+2543	caudal ganglionic eminence derived GABAergic cortical interneuron	0.443164311430404	caudal ganglionic eminence derived GABAergic cortical interneuron
+3285	vip GABAergic cortical interneuron	0.79308659995186	vip GABAergic cortical interneuron
+327	astrocyte	1	astrocyte
+3405	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.941079919845582	L6 corticothalamic-projecting glutamatergic cortical neuron
+389	vip GABAergic cortical interneuron	0.946614490092193	vip GABAergic cortical interneuron
+574	caudal ganglionic eminence derived GABAergic cortical interneuron	0.89836355144579	caudal ganglionic eminence derived GABAergic cortical interneuron
+2061	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.77359427935506	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5416	L6b glutamatergic cortical neuron	0.519361828743667	L6b glutamatergic cortical neuron
+2374	vip GABAergic cortical interneuron	0.847735223139844	caudal ganglionic eminence derived GABAergic cortical interneuron
+2872	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.655806559051035	near-projecting glutamatergic cortical neuron
+2376	L6b glutamatergic cortical neuron	0.97244606820417	L6b glutamatergic cortical neuron
+3556	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+1872	near-projecting glutamatergic cortical neuron	0.959337548042571	near-projecting glutamatergic cortical neuron
+3128	pvalb GABAergic cortical interneuron	0.879251465991832	pvalb GABAergic cortical interneuron
+6057	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.754799061328004	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2254	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+1349	oligodendrocyte	1	oligodendrocyte
+6444	pvalb GABAergic cortical interneuron	0.310874044342168	vip GABAergic cortical interneuron
+411	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.958506098567554	oligodendrocyte precursor cell
+4746	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+1049	microglial cell	1	microglial cell
+486	vip GABAergic cortical interneuron	0.383067875166261	caudal ganglionic eminence derived GABAergic cortical interneuron
+4284	microglial cell	1	microglial cell
+6015	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+1979	L6 corticothalamic-projecting glutamatergic cortical neuron	0.719555205310423	L6 corticothalamic-projecting glutamatergic cortical neuron
+5136	vip GABAergic cortical interneuron	0.536709246570177	lamp5 GABAergic cortical interneuron
+4332	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+4006	astrocyte	1	astrocyte
+3793	L6b glutamatergic cortical neuron	0.74807989583607	L6 corticothalamic-projecting glutamatergic cortical neuron
+700	astrocyte	1	astrocyte
+1695	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.518328390872435	L6b glutamatergic cortical neuron
+1279	vip GABAergic cortical interneuron	0.826360904004424	vip GABAergic cortical interneuron
+5214	astrocyte	1	astrocyte
+1916	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.997050912609115	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5866	microglial cell	1	microglial cell
+5628	vip GABAergic cortical interneuron	0.820502017520382	vip GABAergic cortical interneuron
+4686	microglial cell	1	microglial cell
+3348	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.714519636621057	L2/3-6 intratelencephalic projecting glutamatergic neuron
+650	oligodendrocyte	1	oligodendrocyte
+5584	L5 extratelencephalic projecting glutamatergic cortical neuron	0.55490896988352	L6 corticothalamic-projecting glutamatergic cortical neuron
+2366	sst GABAergic cortical interneuron	0.555291376360179	sst GABAergic cortical interneuron
+1361	L6b glutamatergic cortical neuron	0.854071453064377	near-projecting glutamatergic cortical neuron
+449	vip GABAergic cortical interneuron	0.794060966714737	vip GABAergic cortical interneuron
+1941	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1591	near-projecting glutamatergic cortical neuron	0.796467554598752	near-projecting glutamatergic cortical neuron
+1057	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+2290	L6b glutamatergic cortical neuron	1	L6b glutamatergic cortical neuron
+3062	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+5498	pvalb GABAergic cortical interneuron	0.875335700041873	pvalb GABAergic cortical interneuron
+5486	vip GABAergic cortical interneuron	0.811409139303106	vip GABAergic cortical interneuron
+365	astrocyte	1	astrocyte
+3162	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+243	oligodendrocyte	1	oligodendrocyte
+530	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.676355936344021	sst GABAergic cortical interneuron
+541	pvalb GABAergic cortical interneuron	0.992731121760777	lamp5 GABAergic cortical interneuron
+1556	lamp5 GABAergic cortical interneuron	0.818995387032635	lamp5 GABAergic cortical interneuron
+4504	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+4696	astrocyte	0.864155503997909	astrocyte
+1325	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+6486	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4	caudal ganglionic eminence derived GABAergic cortical interneuron	0.49275068692653	caudal ganglionic eminence derived GABAergic cortical interneuron
+5823	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.59807104779875	pvalb GABAergic cortical interneuron
+5012	pvalb GABAergic cortical interneuron	0.745712654920908	lamp5 GABAergic cortical interneuron
+5033	L6 corticothalamic-projecting glutamatergic cortical neuron	1	L6 corticothalamic-projecting glutamatergic cortical neuron
+5567	endothelial cell	1	endothelial cell
+1206	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+1488	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+3208	pvalb GABAergic cortical interneuron	0.976214861109851	pvalb GABAergic cortical interneuron
+5312	astrocyte	1	astrocyte
+2186	astrocyte	0.762876659739326	astrocyte
+2503	caudal ganglionic eminence derived GABAergic cortical interneuron	0.968085397695568	caudal ganglionic eminence derived GABAergic cortical interneuron
+5125	lamp5 GABAergic cortical interneuron	0.423646098516387	caudal ganglionic eminence derived GABAergic cortical interneuron
+3367	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5885	sst GABAergic cortical interneuron	0.770318268706893	sst GABAergic cortical interneuron
+1545	L6b glutamatergic cortical neuron	0.969889142827846	L6b glutamatergic cortical neuron
+3523	L6b glutamatergic cortical neuron	0.588313991990314	L6b glutamatergic cortical neuron
+4054	L6b glutamatergic cortical neuron	0.548290423714999	near-projecting glutamatergic cortical neuron
+1919	L6b glutamatergic cortical neuron	0.366354648420532	L6b glutamatergic cortical neuron
+3570	L6 corticothalamic-projecting glutamatergic cortical neuron	0.671986096645043	L6 corticothalamic-projecting glutamatergic cortical neuron
+4926	oligodendrocyte	1	oligodendrocyte
+6017	L5 extratelencephalic projecting glutamatergic cortical neuron	0.340499348363294	vip GABAergic cortical interneuron
+5988	microglial cell	1	microglial cell
+1195	caudal ganglionic eminence derived GABAergic cortical interneuron	0.549931617984014	lamp5 GABAergic cortical interneuron
+6156	pvalb GABAergic cortical interneuron	0.498458690701616	pvalb GABAergic cortical interneuron
+5222	oligodendrocyte	0.999999999999999	oligodendrocyte
+3228	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.626303247086287	vip GABAergic cortical interneuron
+197	oligodendrocyte precursor cell	0.984541982317875	oligodendrocyte precursor cell
+6454	L6 corticothalamic-projecting glutamatergic cortical neuron	0.987755180215272	L6 corticothalamic-projecting glutamatergic cortical neuron
+5995	pvalb GABAergic cortical interneuron	0.881504543069242	pvalb GABAergic cortical interneuron
+5387	sst GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+1761	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+4651	L6 corticothalamic-projecting glutamatergic cortical neuron	0.960775681010469	L6 corticothalamic-projecting glutamatergic cortical neuron
+2884	pvalb GABAergic cortical interneuron	0.709277950018976	L5 extratelencephalic projecting glutamatergic cortical neuron
+2179	oligodendrocyte	0.962636229656952	oligodendrocyte
+5385	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+4380	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+2355	L5 extratelencephalic projecting glutamatergic cortical neuron	0.533493545369412	L5 extratelencephalic projecting glutamatergic cortical neuron
+6037	microglial cell	1	microglial cell
+5420	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.415624978378992	oligodendrocyte precursor cell
+6075	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+1478	caudal ganglionic eminence derived GABAergic cortical interneuron	0.909696384037558	caudal ganglionic eminence derived GABAergic cortical interneuron
+399	oligodendrocyte precursor cell	0.974834064479736	oligodendrocyte precursor cell
+3107	L6b glutamatergic cortical neuron	0.728372613727771	L6b glutamatergic cortical neuron
+3491	L6b glutamatergic cortical neuron	0.592519581661495	near-projecting glutamatergic cortical neuron
+5942	astrocyte	0.986500096399316	astrocyte
+4664	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+4513	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+3636	L6b glutamatergic cortical neuron	0.701372402924063	L6b glutamatergic cortical neuron
+5103	L6 corticothalamic-projecting glutamatergic cortical neuron	1	L6 corticothalamic-projecting glutamatergic cortical neuron
+4541	microglial cell	0.576674689481868	microglial cell
+4051	sst GABAergic cortical interneuron	0.845092858390911	sst GABAergic cortical interneuron
+793	pvalb GABAergic cortical interneuron	0.56297575333	astrocyte
+4809	astrocyte	1	astrocyte
+3085	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.988303591934878	L5 extratelencephalic projecting glutamatergic cortical neuron
+5755	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.473020252134949	oligodendrocyte
+1986	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+6110	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+5796	pvalb GABAergic cortical interneuron	0.998872949846867	pvalb GABAergic cortical interneuron
+4258	vip GABAergic cortical interneuron	0.545214836369345	lamp5 GABAergic cortical interneuron
+3385	microglial cell	0.745557938271063	microglial cell
+729	vip GABAergic cortical interneuron	0.999999999999999	vip GABAergic cortical interneuron
+4389	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.760222586931048	sst GABAergic cortical interneuron
+1224	vip GABAergic cortical interneuron	0.554631622002272	caudal ganglionic eminence derived GABAergic cortical interneuron
+1022	near-projecting glutamatergic cortical neuron	0.524871309896275	pvalb GABAergic cortical interneuron
+2341	L6b glutamatergic cortical neuron	0.520288877852954	L6b glutamatergic cortical neuron
+5843	lamp5 GABAergic cortical interneuron	0.581425284802104	lamp5 GABAergic cortical interneuron
+3616	oligodendrocyte precursor cell	0.970558101173001	oligodendrocyte precursor cell
+4042	microglial cell	0.765307995632187	microglial cell
+929	L5 extratelencephalic projecting glutamatergic cortical neuron	0.971528504216751	L5 extratelencephalic projecting glutamatergic cortical neuron
+3579	L6b glutamatergic cortical neuron	0.617332587534777	L6b glutamatergic cortical neuron
+5852	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+4806	lamp5 GABAergic cortical interneuron	0.5245806824579	lamp5 GABAergic cortical interneuron
+5292	L6 corticothalamic-projecting glutamatergic cortical neuron	0.667285492389352	L6 corticothalamic-projecting glutamatergic cortical neuron
+2327	L6b glutamatergic cortical neuron	0.82171062102723	L6b glutamatergic cortical neuron
+3870	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.935181473750996	L2/3-6 intratelencephalic projecting glutamatergic neuron
+285	astrocyte	1	astrocyte
+921	microglial cell	1	microglial cell
+5338	microglial cell	0.587435068970831	microglial cell
+2875	vip GABAergic cortical interneuron	0.96919019080034	lamp5 GABAergic cortical interneuron
+584	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.580686063114229	astrocyte
+3542	L6b glutamatergic cortical neuron	0.940350830613563	L5 extratelencephalic projecting glutamatergic cortical neuron
+5916	pvalb GABAergic cortical interneuron	0.993788779689371	pvalb GABAergic cortical interneuron
+719	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.935211654164616	vip GABAergic cortical interneuron
+2150	pvalb GABAergic cortical interneuron	0.918144169482758	pvalb GABAergic cortical interneuron
+916	pvalb GABAergic cortical interneuron	0.909762335979363	pvalb GABAergic cortical interneuron
+5644	pvalb GABAergic cortical interneuron	0.867425946043378	pvalb GABAergic cortical interneuron
+1230	caudal ganglionic eminence derived GABAergic cortical interneuron	0.803137634049109	vip GABAergic cortical interneuron
+1371	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.789453494640902	lamp5 GABAergic cortical interneuron
+838	L6b glutamatergic cortical neuron	0.69189040800205	near-projecting glutamatergic cortical neuron
+4858	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+3532	L6b glutamatergic cortical neuron	0.709793231925038	near-projecting glutamatergic cortical neuron
+4440	lamp5 GABAergic cortical interneuron	0.481215994575571	caudal ganglionic eminence derived GABAergic cortical interneuron
+4630	oligodendrocyte	1	oligodendrocyte
+426	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+3571	L6b glutamatergic cortical neuron	0.86677880440059	L6b glutamatergic cortical neuron
+1612	vip GABAergic cortical interneuron	0.688086163933091	lamp5 GABAergic cortical interneuron
+6327	oligodendrocyte precursor cell	0.679065712451311	oligodendrocyte precursor cell
+2693	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.800127964321926	L2/3-6 intratelencephalic projecting glutamatergic neuron
+691	astrocyte	1	astrocyte
+3048	L6b glutamatergic cortical neuron	0.988273102771642	L6b glutamatergic cortical neuron
+5283	microglial cell	1	microglial cell
+6349	L6 corticothalamic-projecting glutamatergic cortical neuron	0.768916245256716	L6b glutamatergic cortical neuron
+3025	L6b glutamatergic cortical neuron	0.782355407419391	L6b glutamatergic cortical neuron
+5607	sst GABAergic cortical interneuron	0.800222742952343	sst GABAergic cortical interneuron
+6265	L6 corticothalamic-projecting glutamatergic cortical neuron	0.911789389583076	L6 corticothalamic-projecting glutamatergic cortical neuron
+2535	pvalb GABAergic cortical interneuron	0.94312581835119	pvalb GABAergic cortical interneuron
+1960	sst GABAergic cortical interneuron	0.590587506626702	caudal ganglionic eminence derived GABAergic cortical interneuron
+2946	vip GABAergic cortical interneuron	0.589321466042773	vip GABAergic cortical interneuron
+6125	astrocyte	1	astrocyte
+2105	L5 extratelencephalic projecting glutamatergic cortical neuron	0.40545159749898	L6 corticothalamic-projecting glutamatergic cortical neuron
+3722	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+893	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+5431	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+1550	L6 corticothalamic-projecting glutamatergic cortical neuron	0.692783927216089	L6b glutamatergic cortical neuron
+1500	oligodendrocyte precursor cell	0.978554293891381	oligodendrocyte precursor cell
+2781	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.66247214780923	astrocyte
+6123	oligodendrocyte	1	oligodendrocyte
+4430	astrocyte	0.567978828314304	astrocyte
+1525	lamp5 GABAergic cortical interneuron	0.512458445022981	caudal ganglionic eminence derived GABAergic cortical interneuron
+2357	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.797226931699449	L5 extratelencephalic projecting glutamatergic cortical neuron
+3171	astrocyte	0.988183750485057	astrocyte
+1259	microglial cell	0.735907060387322	microglial cell
+2151	oligodendrocyte	0.999999999999999	oligodendrocyte
+5079	astrocyte	0.829733841270051	astrocyte
+323	oligodendrocyte precursor cell	0.541176059565738	oligodendrocyte precursor cell
+2449	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.537210069870779	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1726	near-projecting glutamatergic cortical neuron	0.462955242856008	caudal ganglionic eminence derived GABAergic cortical interneuron
+4265	sst GABAergic cortical interneuron	0.454921276180284	sst GABAergic cortical interneuron
+3880	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.549796563419692	L6 corticothalamic-projecting glutamatergic cortical neuron
+3602	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+3529	near-projecting glutamatergic cortical neuron	0.741497206236762	near-projecting glutamatergic cortical neuron
+4576	microglial cell	1	microglial cell
+4475	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+4333	astrocyte	1	astrocyte
+2982	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.962301398415524	L2/3-6 intratelencephalic projecting glutamatergic neuron
+6340	oligodendrocyte	1	oligodendrocyte
+4161	L6 corticothalamic-projecting glutamatergic cortical neuron	0.918526729845293	L6b glutamatergic cortical neuron
+4856	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+3955	L6 corticothalamic-projecting glutamatergic cortical neuron	0.888131235618609	L6 corticothalamic-projecting glutamatergic cortical neuron
+1548	astrocyte	1	astrocyte
+5578	lamp5 GABAergic cortical interneuron	0.312265629757379	sst GABAergic cortical interneuron
+4849	L6b glutamatergic cortical neuron	0.983156290003236	L6b glutamatergic cortical neuron
+3086	astrocyte	0.999999999999999	astrocyte
+3803	L6 corticothalamic-projecting glutamatergic cortical neuron	0.904432226958241	L6 corticothalamic-projecting glutamatergic cortical neuron
+615	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+3313	pvalb GABAergic cortical interneuron	0.587133456350224	pvalb GABAergic cortical interneuron
+2172	L6 corticothalamic-projecting glutamatergic cortical neuron	1	L6 corticothalamic-projecting glutamatergic cortical neuron
+3842	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.944644935175741	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4942	lamp5 GABAergic cortical interneuron	0.385421342267483	caudal ganglionic eminence derived GABAergic cortical interneuron
+6324	oligodendrocyte precursor cell	0.976386399754321	oligodendrocyte precursor cell
+1122	caudal ganglionic eminence derived GABAergic cortical interneuron	0.985490070957122	caudal ganglionic eminence derived GABAergic cortical interneuron
+22	L6 corticothalamic-projecting glutamatergic cortical neuron	0.961802759649405	L6 corticothalamic-projecting glutamatergic cortical neuron
+3548	caudal ganglionic eminence derived GABAergic cortical interneuron	0.501028392326797	caudal ganglionic eminence derived GABAergic cortical interneuron
+1757	L6b glutamatergic cortical neuron	0.696428350214433	L6b glutamatergic cortical neuron
+1221	lamp5 GABAergic cortical interneuron	0.545457524888713	vip GABAergic cortical interneuron
+1228	caudal ganglionic eminence derived GABAergic cortical interneuron	0.985359974699418	caudal ganglionic eminence derived GABAergic cortical interneuron
+5329	oligodendrocyte	1	oligodendrocyte
+5484	microglial cell	1	microglial cell
+5743	microglial cell	1	microglial cell
+5884	sst GABAergic cortical interneuron	0.76066322667531	sst GABAergic cortical interneuron
+2559	L6 corticothalamic-projecting glutamatergic cortical neuron	0.474101629010271	L5 extratelencephalic projecting glutamatergic cortical neuron
+3701	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5402	L6 corticothalamic-projecting glutamatergic cortical neuron	0.45330831375944	near-projecting glutamatergic cortical neuron
+6412	vip GABAergic cortical interneuron	0.784410307795434	caudal ganglionic eminence derived GABAergic cortical interneuron
+4679	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+5206	near-projecting glutamatergic cortical neuron	0.684935645337761	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3775	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.988613482966489	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4219	pericyte	0.75805954740569	pericyte
+3615	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1522	vip GABAergic cortical interneuron	0.355697966741002	caudal ganglionic eminence derived GABAergic cortical interneuron
+1868	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+2389	L6 corticothalamic-projecting glutamatergic cortical neuron	0.640083709472276	L6 corticothalamic-projecting glutamatergic cortical neuron
+5561	L6b glutamatergic cortical neuron	0.625445953620277	sst GABAergic cortical interneuron
+2975	caudal ganglionic eminence derived GABAergic cortical interneuron	0.662278812554118	vip GABAergic cortical interneuron
+2936	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.963623849452527	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4960	astrocyte	1	astrocyte
+5515	pvalb GABAergic cortical interneuron	0.698948098859989	pvalb GABAergic cortical interneuron
+6337	microglial cell	0.924302099497562	microglial cell
+5601	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+4358	microglial cell	1	microglial cell
+2807	microglial cell	1	microglial cell
+817	microglial cell	0.852259522365245	microglial cell
+2066	L6 corticothalamic-projecting glutamatergic cortical neuron	0.487696720084094	L6b glutamatergic cortical neuron
+5254	caudal ganglionic eminence derived GABAergic cortical interneuron	0.92776447885916	caudal ganglionic eminence derived GABAergic cortical interneuron
+2115	lamp5 GABAergic cortical interneuron	0.542855511020918	lamp5 GABAergic cortical interneuron
+4655	L6 corticothalamic-projecting glutamatergic cortical neuron	0.513083132431925	L2/3-6 intratelencephalic projecting glutamatergic neuron
+621	oligodendrocyte precursor cell	0.555932381340216	oligodendrocyte precursor cell
+5736	L6 corticothalamic-projecting glutamatergic cortical neuron	0.966215319413783	L6 corticothalamic-projecting glutamatergic cortical neuron
+974	caudal ganglionic eminence derived GABAergic cortical interneuron	0.788695502951008	caudal ganglionic eminence derived GABAergic cortical interneuron
+2486	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+5026	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.757576085122982	lamp5 GABAergic cortical interneuron
+4391	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+4872	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.633601189524162	vip GABAergic cortical interneuron
+5923	microglial cell	0.550168026463899	microglial cell
+4837	oligodendrocyte	1	oligodendrocyte
+6188	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+2380	oligodendrocyte	1	oligodendrocyte
+6595	oligodendrocyte	1	oligodendrocyte
+6401	oligodendrocyte	1	oligodendrocyte
+3058	oligodendrocyte precursor cell	0.985436690344176	oligodendrocyte precursor cell
+5080	vip GABAergic cortical interneuron	0.332639976114169	lamp5 GABAergic cortical interneuron
+220	L6b glutamatergic cortical neuron	0.608507386127104	L6b glutamatergic cortical neuron
+1734	sst GABAergic cortical interneuron	0.926262271406333	sst GABAergic cortical interneuron
+2358	astrocyte	1	astrocyte
+3936	L6 corticothalamic-projecting glutamatergic cortical neuron	0.765615801678469	L6b glutamatergic cortical neuron
+1827	L6b glutamatergic cortical neuron	0.766770611815802	L6 corticothalamic-projecting glutamatergic cortical neuron
+4704	astrocyte	1	astrocyte
+4589	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.303134515991316	L5 extratelencephalic projecting glutamatergic cortical neuron
+1106	caudal ganglionic eminence derived GABAergic cortical interneuron	0.583770559277951	caudal ganglionic eminence derived GABAergic cortical interneuron
+4772	L6b glutamatergic cortical neuron	0.694217059405395	L5 extratelencephalic projecting glutamatergic cortical neuron
+186	astrocyte	1	astrocyte
+5834	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.708700196995837	astrocyte
+4584	sst GABAergic cortical interneuron	0.567024855670251	sst GABAergic cortical interneuron
+3686	L6 corticothalamic-projecting glutamatergic cortical neuron	0.395996967684904	near-projecting glutamatergic cortical neuron
+129	astrocyte	1	astrocyte
+2895	vip GABAergic cortical interneuron	0.545015133868135	vip GABAergic cortical interneuron
+2494	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+980	L5 extratelencephalic projecting glutamatergic cortical neuron	0.711777398214884	vip GABAergic cortical interneuron
+5577	caudal ganglionic eminence derived GABAergic cortical interneuron	0.570478291656799	vip GABAergic cortical interneuron
+4985	microglial cell	0.719535710109931	microglial cell
+6111	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4634	L6 corticothalamic-projecting glutamatergic cortical neuron	0.886045456844925	L6 corticothalamic-projecting glutamatergic cortical neuron
+1517	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+360	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+1060	lamp5 GABAergic cortical interneuron	0.753491295785249	lamp5 GABAergic cortical interneuron
+3349	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+5176	L6 corticothalamic-projecting glutamatergic cortical neuron	0.651020137956204	L6b glutamatergic cortical neuron
+3876	L6b glutamatergic cortical neuron	0.48398017932336	L6 corticothalamic-projecting glutamatergic cortical neuron
+2901	L6b glutamatergic cortical neuron	0.672564979731239	vip GABAergic cortical interneuron
+1254	vip GABAergic cortical interneuron	0.890047020809606	vip GABAergic cortical interneuron
+2219	L6 corticothalamic-projecting glutamatergic cortical neuron	0.639335506655399	L6b glutamatergic cortical neuron
+979	astrocyte	0.999999999999999	astrocyte
+4892	pvalb GABAergic cortical interneuron	0.949770316122666	pvalb GABAergic cortical interneuron
+2606	lamp5 GABAergic cortical interneuron	0.703757851745038	lamp5 GABAergic cortical interneuron
+4943	oligodendrocyte	1	oligodendrocyte
+1894	near-projecting glutamatergic cortical neuron	0.569505235420432	near-projecting glutamatergic cortical neuron
+2647	astrocyte	0.564878683531025	astrocyte
+4021	oligodendrocyte	1	oligodendrocyte
+1822	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.420992572688053	lamp5 GABAergic cortical interneuron
+4998	L6 corticothalamic-projecting glutamatergic cortical neuron	0.611835964132111	near-projecting glutamatergic cortical neuron
+3872	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L6b glutamatergic cortical neuron
+2822	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+5984	sst GABAergic cortical interneuron	0.736268667854164	near-projecting glutamatergic cortical neuron
+4730	microglial cell	0.693631760253531	microglial cell
+18	pvalb GABAergic cortical interneuron	0.995384852041092	pvalb GABAergic cortical interneuron
+1772	oligodendrocyte	1	oligodendrocyte
+4251	lamp5 GABAergic cortical interneuron	0.716989704553203	lamp5 GABAergic cortical interneuron
+2867	lamp5 GABAergic cortical interneuron	0.614774939169278	lamp5 GABAergic cortical interneuron
+2088	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.515252725283589	endothelial cell
+4316	L6b glutamatergic cortical neuron	0.758956758947873	L6 corticothalamic-projecting glutamatergic cortical neuron
+5435	astrocyte	0.473913643956325	astrocyte
+597	endothelial cell	0.502578512734534	endothelial cell
+5753	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2075	astrocyte	1	astrocyte
+2611	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.959619720113209	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1675	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+2463	caudal ganglionic eminence derived GABAergic cortical interneuron	0.600523751050911	caudal ganglionic eminence derived GABAergic cortical interneuron
+5639	sst GABAergic cortical interneuron	0.994884992614894	sst GABAergic cortical interneuron
+3152	L6b glutamatergic cortical neuron	0.992420602902207	L6b glutamatergic cortical neuron
+4573	vip GABAergic cortical interneuron	0.668207738561084	sst GABAergic cortical interneuron
+2863	sst GABAergic cortical interneuron	0.923003654721582	sst GABAergic cortical interneuron
+796	oligodendrocyte	1	oligodendrocyte
+5741	L6b glutamatergic cortical neuron	0.500017815608158	L2/3-6 intratelencephalic projecting glutamatergic neuron
+6459	vip GABAergic cortical interneuron	0.663325340512704	vip GABAergic cortical interneuron
+5138	astrocyte	1	astrocyte
+5722	lamp5 GABAergic cortical interneuron	0.450164743109594	caudal ganglionic eminence derived GABAergic cortical interneuron
+1189	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+1775	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.953038304813674	L6 corticothalamic-projecting glutamatergic cortical neuron
+869	astrocyte	0.999999999999999	astrocyte
+1251	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.780434669179812	L6b glutamatergic cortical neuron
+5918	lamp5 GABAergic cortical interneuron	0.499839835761968	vip GABAergic cortical interneuron
+282	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.42752502985709	astrocyte
+5237	astrocyte	1	astrocyte
+320	astrocyte	1	astrocyte
+1801	oligodendrocyte	1	oligodendrocyte
+1333	L6 corticothalamic-projecting glutamatergic cortical neuron	0.990434005601947	L6 corticothalamic-projecting glutamatergic cortical neuron
+3972	pvalb GABAergic cortical interneuron	0.731269584772877	L6 corticothalamic-projecting glutamatergic cortical neuron
+5302	lamp5 GABAergic cortical interneuron	0.764556867339848	endothelial cell
+5240	pvalb GABAergic cortical interneuron	0.954472421118376	pvalb GABAergic cortical interneuron
+4871	caudal ganglionic eminence derived GABAergic cortical interneuron	0.790670202989852	caudal ganglionic eminence derived GABAergic cortical interneuron
+6586	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+3233	pvalb GABAergic cortical interneuron	0.906333490860399	pvalb GABAergic cortical interneuron
+963	L6b glutamatergic cortical neuron	0.515698967372162	pvalb GABAergic cortical interneuron
+1464	L6b glutamatergic cortical neuron	0.398665705339507	L6b glutamatergic cortical neuron
+1795	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+1576	oligodendrocyte	1	oligodendrocyte
+4159	L6 corticothalamic-projecting glutamatergic cortical neuron	0.51676882135339	L6b glutamatergic cortical neuron
+1169	L6 corticothalamic-projecting glutamatergic cortical neuron	0.674448940656443	near-projecting glutamatergic cortical neuron
+1245	lamp5 GABAergic cortical interneuron	0.4514707681681	lamp5 GABAergic cortical interneuron
+1434	caudal ganglionic eminence derived GABAergic cortical interneuron	0.865401626013601	caudal ganglionic eminence derived GABAergic cortical interneuron
+4104	pvalb GABAergic cortical interneuron	0.733830020619725	pvalb GABAergic cortical interneuron
+948	pvalb GABAergic cortical interneuron	0.614923774236415	pvalb GABAergic cortical interneuron
+3874	L6 corticothalamic-projecting glutamatergic cortical neuron	0.980131150341791	L6 corticothalamic-projecting glutamatergic cortical neuron
+1047	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+2940	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+2562	pvalb GABAergic cortical interneuron	0.76826935167933	oligodendrocyte precursor cell
+4582	sst GABAergic cortical interneuron	0.514487364620789	sst GABAergic cortical interneuron
+3581	oligodendrocyte precursor cell	0.999999999999999	oligodendrocyte precursor cell
+1750	L6b glutamatergic cortical neuron	0.444085524460375	caudal ganglionic eminence derived GABAergic cortical interneuron
+5475	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.581034640400461	L6 corticothalamic-projecting glutamatergic cortical neuron
+5333	pvalb GABAergic cortical interneuron	0.850954276849897	pvalb GABAergic cortical interneuron
+6323	near-projecting glutamatergic cortical neuron	0.672950390206576	near-projecting glutamatergic cortical neuron
+5691	L5 extratelencephalic projecting glutamatergic cortical neuron	0.554791294106162	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1403	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+5707	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+1140	vip GABAergic cortical interneuron	0.817989603329439	vip GABAergic cortical interneuron
+3519	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.549451465421434	L6b glutamatergic cortical neuron
+2147	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.774250477705722	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2043	oligodendrocyte	0.86812121376196	oligodendrocyte
+5441	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4428	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.466398025602957	caudal ganglionic eminence derived GABAergic cortical interneuron
+2132	lamp5 GABAergic cortical interneuron	0.559217509703843	caudal ganglionic eminence derived GABAergic cortical interneuron
+2574	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.625140062307867	caudal ganglionic eminence derived GABAergic cortical interneuron
+5299	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.787905701889056	L6b glutamatergic cortical neuron
+2530	caudal ganglionic eminence derived GABAergic cortical interneuron	0.686919682300619	lamp5 GABAergic cortical interneuron
+1803	endothelial cell	0.885370572617782	endothelial cell
+39	oligodendrocyte	0.999999999999999	oligodendrocyte
+2258	oligodendrocyte	1	oligodendrocyte
+2987	oligodendrocyte	1	oligodendrocyte
+480	vip GABAergic cortical interneuron	0.641943560538175	vip GABAergic cortical interneuron
+4966	oligodendrocyte	1	oligodendrocyte
+4509	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4901	pvalb GABAergic cortical interneuron	0.613811955787068	pvalb GABAergic cortical interneuron
+2912	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1733	oligodendrocyte	0.983489491500064	oligodendrocyte
+6219	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+1874	astrocyte	1	astrocyte
+1233	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+1972	oligodendrocyte	0.999999999999999	oligodendrocyte
+352	vip GABAergic cortical interneuron	0.684499868631673	lamp5 GABAergic cortical interneuron
+368	vip GABAergic cortical interneuron	0.978574606816852	vip GABAergic cortical interneuron
+3593	sst GABAergic cortical interneuron	0.98817998317759	sst GABAergic cortical interneuron
+233	near-projecting glutamatergic cortical neuron	0.770654338863151	near-projecting glutamatergic cortical neuron
+6165	L6 corticothalamic-projecting glutamatergic cortical neuron	0.894879126251564	L6 corticothalamic-projecting glutamatergic cortical neuron
+3277	near-projecting glutamatergic cortical neuron	0.612384343984092	L6 corticothalamic-projecting glutamatergic cortical neuron
+5673	L6 corticothalamic-projecting glutamatergic cortical neuron	0.801830019320793	L6b glutamatergic cortical neuron
+1681	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.743853405607251	L6 corticothalamic-projecting glutamatergic cortical neuron
+3109	L6b glutamatergic cortical neuron	0.980619214591276	L6b glutamatergic cortical neuron
+3733	astrocyte	1	astrocyte
+3396	microglial cell	1	microglial cell
+2811	astrocyte	1	astrocyte
+6192	microglial cell	1	microglial cell
+135	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+2536	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+6279	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+5876	L6b glutamatergic cortical neuron	0.871130967632999	L6b glutamatergic cortical neuron
+2144	L6 corticothalamic-projecting glutamatergic cortical neuron	0.513618609042796	L6 corticothalamic-projecting glutamatergic cortical neuron
+5426	pvalb GABAergic cortical interneuron	0.972995874216369	pvalb GABAergic cortical interneuron
+5140	astrocyte	1	astrocyte
+5120	lamp5 GABAergic cortical interneuron	0.438876311735282	lamp5 GABAergic cortical interneuron
+3862	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+45	vip GABAergic cortical interneuron	0.694685915479249	L6b glutamatergic cortical neuron
+2580	oligodendrocyte	1	oligodendrocyte
+6155	oligodendrocyte precursor cell	0.927785898572239	oligodendrocyte precursor cell
+4560	lamp5 GABAergic cortical interneuron	0.777605988064414	lamp5 GABAergic cortical interneuron
+707	caudal ganglionic eminence derived GABAergic cortical interneuron	0.975660613868679	caudal ganglionic eminence derived GABAergic cortical interneuron
+6236	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.720083278943699	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3854	oligodendrocyte	0.999999999999999	oligodendrocyte
+421	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+1031	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+1610	oligodendrocyte	1	oligodendrocyte
+4441	L6 corticothalamic-projecting glutamatergic cortical neuron	0.500844478201408	lamp5 GABAergic cortical interneuron
+5089	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+2103	oligodendrocyte precursor cell	0.974609308469453	oligodendrocyte precursor cell
+5654	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	oligodendrocyte
+6506	sst GABAergic cortical interneuron	0.99347565992865	sst GABAergic cortical interneuron
+4446	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.447338411199578	L5 extratelencephalic projecting glutamatergic cortical neuron
+93	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+4313	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.974458026285713	lamp5 GABAergic cortical interneuron
+1146	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.598957821449168	oligodendrocyte precursor cell
+4050	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.583870160554514	L5 extratelencephalic projecting glutamatergic cortical neuron
+3426	astrocyte	1	astrocyte
+6316	microglial cell	1	microglial cell
+5634	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+711	caudal ganglionic eminence derived GABAergic cortical interneuron	0.641587214932908	caudal ganglionic eminence derived GABAergic cortical interneuron
+5714	caudal ganglionic eminence derived GABAergic cortical interneuron	0.813011232929498	caudal ganglionic eminence derived GABAergic cortical interneuron
+3344	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4727	caudal ganglionic eminence derived GABAergic cortical interneuron	0.503180111216858	sst GABAergic cortical interneuron
+4799	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+4017	sst GABAergic cortical interneuron	0.5758207126056	lamp5 GABAergic cortical interneuron
+3294	L6 corticothalamic-projecting glutamatergic cortical neuron	0.613042532273091	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4465	endothelial cell	0.849210606612113	microglial cell
+2621	pvalb GABAergic cortical interneuron	0.814619946644574	lamp5 GABAergic cortical interneuron
+3525	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.857728393880776	L5 extratelencephalic projecting glutamatergic cortical neuron
+4228	near-projecting glutamatergic cortical neuron	0.471753509742542	near-projecting glutamatergic cortical neuron
+6503	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+1831	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.440342134136842	lamp5 GABAergic cortical interneuron
+3099	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+209	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.761338702702897	vip GABAergic cortical interneuron
+3875	L6b glutamatergic cortical neuron	0.477257081723004	L5 extratelencephalic projecting glutamatergic cortical neuron
+2444	L6 corticothalamic-projecting glutamatergic cortical neuron	0.78522172635602	L6b glutamatergic cortical neuron
+1416	sst GABAergic cortical interneuron	0.49526141559844	oligodendrocyte precursor cell
+2407	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.622523192330183	lamp5 GABAergic cortical interneuron
+10	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+2927	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.816130997107964	L6 corticothalamic-projecting glutamatergic cortical neuron
+373	astrocyte	1	astrocyte
+5324	L6 corticothalamic-projecting glutamatergic cortical neuron	0.77231096338267	L6 corticothalamic-projecting glutamatergic cortical neuron
+2528	L6 corticothalamic-projecting glutamatergic cortical neuron	0.961522801826698	L6 corticothalamic-projecting glutamatergic cortical neuron
+6347	sst GABAergic cortical interneuron	0.563762945802972	pvalb GABAergic cortical interneuron
+5244	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+6545	microglial cell	0.999999999999999	microglial cell
+4919	oligodendrocyte	1	oligodendrocyte
+5735	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+147	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+5570	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.872467142174426	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5807	L6 corticothalamic-projecting glutamatergic cortical neuron	0.970640522870387	L6 corticothalamic-projecting glutamatergic cortical neuron
+6446	L6 corticothalamic-projecting glutamatergic cortical neuron	0.903658539080938	L6 corticothalamic-projecting glutamatergic cortical neuron
+1839	L6b glutamatergic cortical neuron	0.967725437741679	L6b glutamatergic cortical neuron
+2062	sst GABAergic cortical interneuron	0.999999999999999	sst GABAergic cortical interneuron
+4762	near-projecting glutamatergic cortical neuron	0.57980879980878	L6 corticothalamic-projecting glutamatergic cortical neuron
+4406	microglial cell	1	microglial cell
+5536	sst GABAergic cortical interneuron	0.98111735376248	sst GABAergic cortical interneuron
+3093	L6b glutamatergic cortical neuron	0.781226113865897	L6b glutamatergic cortical neuron
+2583	pvalb GABAergic cortical interneuron	0.711308374164337	pvalb GABAergic cortical interneuron
+1607	L6 corticothalamic-projecting glutamatergic cortical neuron	0.980690232953123	L6b glutamatergic cortical neuron
+117	L6 corticothalamic-projecting glutamatergic cortical neuron	0.564656169190892	L6 corticothalamic-projecting glutamatergic cortical neuron
+5179	L6 corticothalamic-projecting glutamatergic cortical neuron	1	L6 corticothalamic-projecting glutamatergic cortical neuron
+6157	L6b glutamatergic cortical neuron	1	L6b glutamatergic cortical neuron
+2131	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+922	oligodendrocyte	1	oligodendrocyte
+688	pvalb GABAergic cortical interneuron	0.894841627046156	pvalb GABAergic cortical interneuron
+1153	near-projecting glutamatergic cortical neuron	0.836721613675581	near-projecting glutamatergic cortical neuron
+413	lamp5 GABAergic cortical interneuron	0.894813185338811	lamp5 GABAergic cortical interneuron
+1485	vip GABAergic cortical interneuron	0.44467354622845	caudal ganglionic eminence derived GABAergic cortical interneuron
+3123	astrocyte	1	astrocyte
+3606	L6b glutamatergic cortical neuron	1	L6b glutamatergic cortical neuron
+2388	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+23	microglial cell	1	microglial cell
+139	L6 corticothalamic-projecting glutamatergic cortical neuron	0.711682759028342	L6 corticothalamic-projecting glutamatergic cortical neuron
+2091	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.727831184261429	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1814	microglial cell	1	microglial cell
+652	caudal ganglionic eminence derived GABAergic cortical interneuron	0.98457137044252	caudal ganglionic eminence derived GABAergic cortical interneuron
+5511	astrocyte	1	astrocyte
+3184	oligodendrocyte precursor cell	0.979570468832646	oligodendrocyte precursor cell
+477	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+2815	oligodendrocyte	1	oligodendrocyte
+3829	L6 corticothalamic-projecting glutamatergic cortical neuron	0.900047070710208	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1902	sst GABAergic cortical interneuron	0.658846556580573	L6b glutamatergic cortical neuron
+158	L6b glutamatergic cortical neuron	0.634589592620511	L6b glutamatergic cortical neuron
+832	microglial cell	1	microglial cell
+6207	pvalb GABAergic cortical interneuron	0.985278575805205	pvalb GABAergic cortical interneuron
+2794	L5 extratelencephalic projecting glutamatergic cortical neuron	0.659367252383638	L5 extratelencephalic projecting glutamatergic cortical neuron
+3293	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.728300195471367	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3018	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5510	sst GABAergic cortical interneuron	0.662634867508537	sst GABAergic cortical interneuron
+2568	L6 corticothalamic-projecting glutamatergic cortical neuron	1	L6 corticothalamic-projecting glutamatergic cortical neuron
+2769	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+1875	L6b glutamatergic cortical neuron	0.50360795020832	L6b glutamatergic cortical neuron
+5870	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+3916	L6b glutamatergic cortical neuron	0.603016248228549	L6b glutamatergic cortical neuron
+371	microglial cell	1	microglial cell
+3415	pvalb GABAergic cortical interneuron	0.809142826095222	sst GABAergic cortical interneuron
+2302	sst GABAergic cortical interneuron	0.963838623924099	sst GABAergic cortical interneuron
+2352	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+225	pvalb GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+5084	oligodendrocyte	1	oligodendrocyte
+4255	lamp5 GABAergic cortical interneuron	0.959814521238017	lamp5 GABAergic cortical interneuron
+3166	lamp5 GABAergic cortical interneuron	0.954154282557645	lamp5 GABAergic cortical interneuron
+2143	L6 corticothalamic-projecting glutamatergic cortical neuron	0.839449038021716	L6 corticothalamic-projecting glutamatergic cortical neuron
+4130	microglial cell	1	microglial cell
+4491	L6b glutamatergic cortical neuron	0.973237432419604	L6 corticothalamic-projecting glutamatergic cortical neuron
+3704	vip GABAergic cortical interneuron	0.529329617788918	vip GABAergic cortical interneuron
+4512	near-projecting glutamatergic cortical neuron	0.976513046869758	L6b glutamatergic cortical neuron
+2381	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.440180025407327	sst GABAergic cortical interneuron
+1422	vip GABAergic cortical interneuron	0.456418252793426	lamp5 GABAergic cortical interneuron
+4244	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.863629750319969	endothelial cell
+2612	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+3650	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4608	oligodendrocyte precursor cell	0.975232224059587	oligodendrocyte precursor cell
+3767	L6 corticothalamic-projecting glutamatergic cortical neuron	0.569656954350246	L6 corticothalamic-projecting glutamatergic cortical neuron
+71	microglial cell	1	microglial cell
+2976	vip GABAergic cortical interneuron	0.333138960954611	lamp5 GABAergic cortical interneuron
+1425	pvalb GABAergic cortical interneuron	0.571989924242899	vip GABAergic cortical interneuron
+6273	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.528322604807017	L6 corticothalamic-projecting glutamatergic cortical neuron
+5867	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.626895462017512	sst GABAergic cortical interneuron
+1848	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+4200	sst GABAergic cortical interneuron	0.997683952102039	sst GABAergic cortical interneuron
+6031	lamp5 GABAergic cortical interneuron	0.865684487574052	lamp5 GABAergic cortical interneuron
+1391	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.373645315687086	microglial cell
+5162	L6 corticothalamic-projecting glutamatergic cortical neuron	0.859702574196209	L6 corticothalamic-projecting glutamatergic cortical neuron
+3899	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.71605867462553	L6 corticothalamic-projecting glutamatergic cortical neuron
+1514	near-projecting glutamatergic cortical neuron	0.368658845720801	vip GABAergic cortical interneuron
+5419	oligodendrocyte	1	oligodendrocyte
+2457	vip GABAergic cortical interneuron	0.994002569651054	vip GABAergic cortical interneuron
+3867	L6b glutamatergic cortical neuron	0.428267129934694	L6 corticothalamic-projecting glutamatergic cortical neuron
+641	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+2563	endothelial cell	0.791194420501643	endothelial cell
+3976	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+5114	sst GABAergic cortical interneuron	0.651767019085244	vip GABAergic cortical interneuron
+1956	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.773228160801918	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1475	oligodendrocyte	1	oligodendrocyte
+286	sst GABAergic cortical interneuron	0.459437699443261	vip GABAergic cortical interneuron
+4245	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.660167741112059	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5415	pvalb GABAergic cortical interneuron	0.873434278066991	pvalb GABAergic cortical interneuron
+1527	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+4617	microglial cell	1	microglial cell
+3147	L6b glutamatergic cortical neuron	0.994647296899957	L6 corticothalamic-projecting glutamatergic cortical neuron
+6332	pvalb GABAergic cortical interneuron	0.720333487045229	pvalb GABAergic cortical interneuron
+4347	near-projecting glutamatergic cortical neuron	0.658325826794753	oligodendrocyte
+3741	astrocyte	1	astrocyte
+3315	pvalb GABAergic cortical interneuron	0.449448147428954	pvalb GABAergic cortical interneuron
+5664	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+5398	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+4639	L6 corticothalamic-projecting glutamatergic cortical neuron	0.495652694377789	near-projecting glutamatergic cortical neuron
+2379	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1934	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.69751722697852	lamp5 GABAergic cortical interneuron
+2564	lamp5 GABAergic cortical interneuron	0.907031451664261	lamp5 GABAergic cortical interneuron
+1133	lamp5 GABAergic cortical interneuron	0.622503384095491	caudal ganglionic eminence derived GABAergic cortical interneuron
+4944	vip GABAergic cortical interneuron	0.513001525413156	pvalb GABAergic cortical interneuron
+3207	near-projecting glutamatergic cortical neuron	0.603190689232182	near-projecting glutamatergic cortical neuron
+2412	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.701505825467684	L6 corticothalamic-projecting glutamatergic cortical neuron
+6268	pvalb GABAergic cortical interneuron	0.826268503395897	pvalb GABAergic cortical interneuron
+5748	pvalb GABAergic cortical interneuron	0.999999999999999	pvalb GABAergic cortical interneuron
+300	pvalb GABAergic cortical interneuron	0.46009457840546	lamp5 GABAergic cortical interneuron
+5540	microglial cell	1	microglial cell
+4478	sst GABAergic cortical interneuron	0.396468467743174	near-projecting glutamatergic cortical neuron
+1255	pvalb GABAergic cortical interneuron	0.632565489126402	oligodendrocyte precursor cell
+3183	vip GABAergic cortical interneuron	0.812951644102829	vip GABAergic cortical interneuron
+2274	oligodendrocyte	1	oligodendrocyte
+3372	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.952742153558536	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5697	astrocyte	1	astrocyte
+3819	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1594	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+335	astrocyte	1	astrocyte
+1223	near-projecting glutamatergic cortical neuron	0.811831275410976	near-projecting glutamatergic cortical neuron
+567	pericyte	0.348404479042314	microglial cell
+4729	pvalb GABAergic cortical interneuron	0.546463126572153	vip GABAergic cortical interneuron
+4304	endothelial cell	0.927206031770751	endothelial cell
+1499	L5 extratelencephalic projecting glutamatergic cortical neuron	0.499652024396218	L5 extratelencephalic projecting glutamatergic cortical neuron
+4056	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.630635578172766	pvalb GABAergic cortical interneuron
+483	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.550590432393457	astrocyte
+837	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+5017	oligodendrocyte	1	oligodendrocyte
+4940	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.618293953455774	oligodendrocyte precursor cell
+1978	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+1852	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.887694331868687	L2/3-6 intratelencephalic projecting glutamatergic neuron
+446	vip GABAergic cortical interneuron	0.539387800607121	vip GABAergic cortical interneuron
+2197	L6 corticothalamic-projecting glutamatergic cortical neuron	0.879892088745402	near-projecting glutamatergic cortical neuron
+598	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	vip GABAergic cortical interneuron
+5159	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.779798837655256	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3165	pvalb GABAergic cortical interneuron	0.910821828782375	pvalb GABAergic cortical interneuron
+4211	oligodendrocyte	1	oligodendrocyte
+863	microglial cell	0.930430201550124	microglial cell
+3717	microglial cell	1	microglial cell
+3444	pvalb GABAergic cortical interneuron	0.632235278157747	pvalb GABAergic cortical interneuron
+5865	microglial cell	1	microglial cell
+5289	pvalb GABAergic cortical interneuron	0.852324299221839	astrocyte
+5782	endothelial cell	0.501746433046663	endothelial cell
+2124	vip GABAergic cortical interneuron	0.619075365561459	vip GABAergic cortical interneuron
+3781	lamp5 GABAergic cortical interneuron	0.812507732292541	lamp5 GABAergic cortical interneuron
+4131	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+1471	vip GABAergic cortical interneuron	0.927282485972904	vip GABAergic cortical interneuron
+4656	sst GABAergic cortical interneuron	0.907738935847604	sst GABAergic cortical interneuron
+2364	microglial cell	1	microglial cell
+3746	astrocyte	1	astrocyte
+2684	near-projecting glutamatergic cortical neuron	0.367698008913102	L6 corticothalamic-projecting glutamatergic cortical neuron
+2996	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.981017580106578	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3652	pvalb GABAergic cortical interneuron	1	pvalb GABAergic cortical interneuron
+1778	astrocyte	1	astrocyte
+6076	L6 corticothalamic-projecting glutamatergic cortical neuron	0.352359480990216	pericyte
+4363	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.775731061960825	sst GABAergic cortical interneuron
+1976	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+146	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+271	endothelial cell	0.846291321414929	endothelial cell
+4938	L6 corticothalamic-projecting glutamatergic cortical neuron	0.786390088530004	near-projecting glutamatergic cortical neuron
+5325	L6b glutamatergic cortical neuron	0.430178134035945	L6b glutamatergic cortical neuron
+6387	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+1242	oligodendrocyte	0.939145590530492	oligodendrocyte
+5565	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.988213347820884	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2902	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.675881712751291	vip GABAergic cortical interneuron
+1207	pvalb GABAergic cortical interneuron	0.999999999999999	pvalb GABAergic cortical interneuron
+4045	L5 extratelencephalic projecting glutamatergic cortical neuron	0.53410768822941	lamp5 GABAergic cortical interneuron
+4648	lamp5 GABAergic cortical interneuron	0.846496395644801	lamp5 GABAergic cortical interneuron
+5293	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.894533048749595	L2/3-6 intratelencephalic projecting glutamatergic neuron
+296	lamp5 GABAergic cortical interneuron	0.756316491461366	lamp5 GABAergic cortical interneuron
+2622	L6b glutamatergic cortical neuron	0.432506732829611	L6b glutamatergic cortical neuron
+4552	astrocyte	1	astrocyte
+5337	microglial cell	1	microglial cell
+5377	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.97018011760099	L6b glutamatergic cortical neuron
+5806	oligodendrocyte	1	oligodendrocyte
+4409	sst GABAergic cortical interneuron	0.778037646063775	sst GABAergic cortical interneuron
+1700	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+6499	L6 corticothalamic-projecting glutamatergic cortical neuron	0.994681143589791	L6 corticothalamic-projecting glutamatergic cortical neuron
+1637	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L6b glutamatergic cortical neuron
+3667	pvalb GABAergic cortical interneuron	0.791861830199805	lamp5 GABAergic cortical interneuron
+1352	near-projecting glutamatergic cortical neuron	0.817064043252954	near-projecting glutamatergic cortical neuron
+3087	L6b glutamatergic cortical neuron	0.462941674620944	oligodendrocyte precursor cell
+2857	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+861	vip GABAergic cortical interneuron	0.5667841000373	vip GABAergic cortical interneuron
+4277	vip GABAergic cortical interneuron	0.816573219249153	lamp5 GABAergic cortical interneuron
+1808	lamp5 GABAergic cortical interneuron	0.890041995224168	lamp5 GABAergic cortical interneuron
+5392	L5 extratelencephalic projecting glutamatergic cortical neuron	0.663067196036308	L5 extratelencephalic projecting glutamatergic cortical neuron
+5636	L6 corticothalamic-projecting glutamatergic cortical neuron	0.750638118824269	L6 corticothalamic-projecting glutamatergic cortical neuron
+6044	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+3985	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3412	endothelial cell	0.548074815564114	microglial cell
+2267	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.853027437796555	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2773	L6b glutamatergic cortical neuron	0.918028587813466	L6b glutamatergic cortical neuron
+6244	pvalb GABAergic cortical interneuron	0.936888507050145	pvalb GABAergic cortical interneuron
+543	sst GABAergic cortical interneuron	0.431762333791256	lamp5 GABAergic cortical interneuron
+5941	caudal ganglionic eminence derived GABAergic cortical interneuron	0.618606766864347	caudal ganglionic eminence derived GABAergic cortical interneuron
+6224	oligodendrocyte	1	oligodendrocyte
+5907	endothelial cell	0.419049463647315	microglial cell
+5002	L6 corticothalamic-projecting glutamatergic cortical neuron	0.598717614851818	L6b glutamatergic cortical neuron
+3929	pvalb GABAergic cortical interneuron	0.59608787502254	pvalb GABAergic cortical interneuron
+5713	pericyte	0.798516571272798	pericyte
+5523	astrocyte	1	astrocyte
+4995	lamp5 GABAergic cortical interneuron	0.890879411212785	lamp5 GABAergic cortical interneuron
+4666	oligodendrocyte	1	oligodendrocyte
+4870	L6 corticothalamic-projecting glutamatergic cortical neuron	0.55126139117595	astrocyte
+6191	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.997035873634902	L2/3-6 intratelencephalic projecting glutamatergic neuron
+4018	microglial cell	1	microglial cell
+6432	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.638057385531017	oligodendrocyte
+2211	sst GABAergic cortical interneuron	0.594835411724561	caudal ganglionic eminence derived GABAergic cortical interneuron
+5203	lamp5 GABAergic cortical interneuron	0.503117576598167	caudal ganglionic eminence derived GABAergic cortical interneuron
+961	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+2823	oligodendrocyte	0.999999999999999	oligodendrocyte
+2602	lamp5 GABAergic cortical interneuron	1	lamp5 GABAergic cortical interneuron
+2888	astrocyte	0.999999999999999	astrocyte
+3740	astrocyte	0.932441403430771	astrocyte
+3585	astrocyte	1	astrocyte
+2010	microglial cell	1	microglial cell
+1247	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+705	near-projecting glutamatergic cortical neuron	0.612452821672206	near-projecting glutamatergic cortical neuron
+4950	astrocyte	0.691679489513109	astrocyte
+2752	microglial cell	1	microglial cell
+3839	sst GABAergic cortical interneuron	0.525606844217086	L6 corticothalamic-projecting glutamatergic cortical neuron
+4948	lamp5 GABAergic cortical interneuron	0.828844129012687	lamp5 GABAergic cortical interneuron
+4724	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+1787	L6b glutamatergic cortical neuron	0.979354909919095	L6 corticothalamic-projecting glutamatergic cortical neuron
+1260	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+51	L6 corticothalamic-projecting glutamatergic cortical neuron	0.37702257597263	near-projecting glutamatergic cortical neuron
+4145	L6 corticothalamic-projecting glutamatergic cortical neuron	0.556594848286335	L6 corticothalamic-projecting glutamatergic cortical neuron
+5538	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+3204	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	pvalb GABAergic cortical interneuron
+4273	pvalb GABAergic cortical interneuron	0.762467821364433	vip GABAergic cortical interneuron
+2560	oligodendrocyte precursor cell	0.548746159502996	oligodendrocyte precursor cell
+1415	L6 corticothalamic-projecting glutamatergic cortical neuron	0.871698134971066	vip GABAergic cortical interneuron
+287	lamp5 GABAergic cortical interneuron	0.857539708453115	caudal ganglionic eminence derived GABAergic cortical interneuron
+1793	L6 corticothalamic-projecting glutamatergic cortical neuron	0.997881014237735	L6 corticothalamic-projecting glutamatergic cortical neuron
+2930	astrocyte	0.999999999999999	astrocyte
+6050	oligodendrocyte	1	oligodendrocyte
+2993	lamp5 GABAergic cortical interneuron	0.950130681579459	lamp5 GABAergic cortical interneuron
+5586	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.40714534526259	oligodendrocyte
+2945	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+1311	oligodendrocyte	1	oligodendrocyte
+2719	vip GABAergic cortical interneuron	0.807724083128922	vip GABAergic cortical interneuron
+3499	L6b glutamatergic cortical neuron	0.987566620036993	L6b glutamatergic cortical neuron
+2304	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.809313829974303	L5 extratelencephalic projecting glutamatergic cortical neuron
+3021	L6b glutamatergic cortical neuron	0.664182860242717	sst GABAergic cortical interneuron
+5850	pvalb GABAergic cortical interneuron	0.553817736742774	pvalb GABAergic cortical interneuron
+237	pvalb GABAergic cortical interneuron	0.959142202928709	lamp5 GABAergic cortical interneuron
+595	caudal ganglionic eminence derived GABAergic cortical interneuron	0.6506250780489	caudal ganglionic eminence derived GABAergic cortical interneuron
+5952	vip GABAergic cortical interneuron	0.532428551987054	caudal ganglionic eminence derived GABAergic cortical interneuron
+3420	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+5274	microglial cell	1	microglial cell
+5908	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.696824817290962	astrocyte
+3248	near-projecting glutamatergic cortical neuron	0.673290597313445	near-projecting glutamatergic cortical neuron
+3290	lamp5 GABAergic cortical interneuron	0.953040358651349	lamp5 GABAergic cortical interneuron
+5047	oligodendrocyte	1	oligodendrocyte
+1493	pvalb GABAergic cortical interneuron	0.597819481219097	vip GABAergic cortical interneuron
+3167	sst GABAergic cortical interneuron	0.88956362096053	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2430	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+3046	vip GABAergic cortical interneuron	0.616579572669863	vip GABAergic cortical interneuron
+4825	near-projecting glutamatergic cortical neuron	0.911507937079762	near-projecting glutamatergic cortical neuron
+4150	L6 corticothalamic-projecting glutamatergic cortical neuron	0.851347603846753	L6 corticothalamic-projecting glutamatergic cortical neuron
+201	oligodendrocyte precursor cell	0.820784092844547	oligodendrocyte precursor cell
+1947	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.502332342531526	L6 corticothalamic-projecting glutamatergic cortical neuron
+5424	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.990368942401575	L6b glutamatergic cortical neuron
+4978	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.566360810690274	astrocyte
+2995	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+3518	L6b glutamatergic cortical neuron	0.959441631489192	L6b glutamatergic cortical neuron
+5676	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+2541	microglial cell	0.778247296779321	microglial cell
+3679	L6 corticothalamic-projecting glutamatergic cortical neuron	0.610946569082361	L6 corticothalamic-projecting glutamatergic cortical neuron
+3455	near-projecting glutamatergic cortical neuron	0.484157616740893	L5 extratelencephalic projecting glutamatergic cortical neuron
+1999	L2/3-6 intratelencephalic projecting glutamatergic neuron	1	L2/3-6 intratelencephalic projecting glutamatergic neuron
+5215	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+94	oligodendrocyte precursor cell	0.999999999999999	oligodendrocyte precursor cell
+4269	pvalb GABAergic cortical interneuron	0.625565142227398	astrocyte
+1564	L6b glutamatergic cortical neuron	0.513884012350471	L6b glutamatergic cortical neuron
+3871	L6 corticothalamic-projecting glutamatergic cortical neuron	0.847823576381965	L6 corticothalamic-projecting glutamatergic cortical neuron
+2644	pericyte	0.635487774707557	pericyte
+1138	vip GABAergic cortical interneuron	1	vip GABAergic cortical interneuron
+770	vip GABAergic cortical interneuron	0.926529518548773	vip GABAergic cortical interneuron
+5653	astrocyte	0.902223200801452	astrocyte
+3618	oligodendrocyte precursor cell	1	oligodendrocyte precursor cell
+343	sst GABAergic cortical interneuron	0.935473850949419	sst GABAergic cortical interneuron
+1627	L6 corticothalamic-projecting glutamatergic cortical neuron	0.843822006473149	L6 corticothalamic-projecting glutamatergic cortical neuron
+1083	near-projecting glutamatergic cortical neuron	1	near-projecting glutamatergic cortical neuron
+710	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+3964	L6b glutamatergic cortical neuron	1	L6 corticothalamic-projecting glutamatergic cortical neuron
+3940	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.782175576618445	sst GABAergic cortical interneuron
+89	near-projecting glutamatergic cortical neuron	0.577570632187547	near-projecting glutamatergic cortical neuron
+2453	caudal ganglionic eminence derived GABAergic cortical interneuron	0.657978016241213	caudal ganglionic eminence derived GABAergic cortical interneuron
+783	L2/3-6 intratelencephalic projecting glutamatergic neuron	0.352373443946482	microglial cell
+5425	oligodendrocyte	1	oligodendrocyte
+6475	sst GABAergic cortical interneuron	1	sst GABAergic cortical interneuron
+3151	oligodendrocyte	1	oligodendrocyte
+298	L6b glutamatergic cortical neuron	0.832673277362105	L6b glutamatergic cortical neuron
+5359	vip GABAergic cortical interneuron	0.69939061274912	pvalb GABAergic cortical interneuron
+1953	caudal ganglionic eminence derived GABAergic cortical interneuron	0.919164017243555	caudal ganglionic eminence derived GABAergic cortical interneuron
+6507	astrocyte	1	astrocyte

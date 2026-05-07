@@ -1,2 +1,0 @@
-depth	method	seed1	seed2	n_cells	percent_agreement	adjusted_rand_index	cohen_kappa	n_cell_types	rep1_vs_original_percent_agreement	rep1_vs_original_ari	rep2_vs_original_percent_agreement	rep2_vs_original_ari
-5000	scvi	123	42	1979	0.9706922688226377	0.9427730891456138	0.9683749969003739	17	0.9686710459828196	0.9400029715568343	0.9656392117230924	0.9339194908265022

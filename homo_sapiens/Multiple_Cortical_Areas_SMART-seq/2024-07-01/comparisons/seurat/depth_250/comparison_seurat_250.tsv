@@ -1,0 +1,2 @@
+depth	method	seed1	seed2	n_cells	percent_agreement	adjusted_rand_index	cohen_kappa	n_cell_types	rep1_vs_original_percent_agreement	rep1_vs_original_ari	rep2_vs_original_percent_agreement	rep2_vs_original_ari
+250	seurat	123	42	1979	0.8514401212733704	0.727043536636191	0.8397375316661235	17	0.9029813036887316	0.8126096767114157	0.898433552299141	0.8036861390456149

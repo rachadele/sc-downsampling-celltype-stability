@@ -1,0 +1,52 @@
+cell_type	f1	count_rep1	count_rep2	depth	method	seed1	seed2	comparison
+L2/3-6 intratelencephalic projecting glutamatergic neuron	0.5034246575342466	292	292	100	seurat	123	42	rep1_vs_rep2
+L5 extratelencephalic projecting glutamatergic cortical neuron	0.28169014084507044	36	35	100	seurat	123	42	rep1_vs_rep2
+L6 corticothalamic-projecting glutamatergic cortical neuron	0.4755244755244755	121	165	100	seurat	123	42	rep1_vs_rep2
+L6b glutamatergic cortical neuron	0.45569620253164556	169	147	100	seurat	123	42	rep1_vs_rep2
+astrocyte	0.8888888888888888	135	126	100	seurat	123	42	rep1_vs_rep2
+caudal ganglionic eminence derived GABAergic cortical interneuron	0.5190839694656488	64	67	100	seurat	123	42	rep1_vs_rep2
+endothelial cell	0.5818181818181818	32	23	100	seurat	123	42	rep1_vs_rep2
+lamp5 GABAergic cortical interneuron	0.5232067510548524	124	113	100	seurat	123	42	rep1_vs_rep2
+microglial cell	0.9077490774907749	132	139	100	seurat	123	42	rep1_vs_rep2
+near-projecting glutamatergic cortical neuron	0.631578947368421	155	130	100	seurat	123	42	rep1_vs_rep2
+oligodendrocyte	0.9547038327526133	143	144	100	seurat	123	42	rep1_vs_rep2
+oligodendrocyte precursor cell	0.7949790794979079	114	125	100	seurat	123	42	rep1_vs_rep2
+pericyte	0.5	10	10	100	seurat	123	42	rep1_vs_rep2
+pvalb GABAergic cortical interneuron	0.6124661246612466	194	175	100	seurat	123	42	rep1_vs_rep2
+sst GABAergic cortical interneuron	0.6014492753623188	130	146	100	seurat	123	42	rep1_vs_rep2
+vascular leptomeningeal cell	0.5714285714285714	4	3	100	seurat	123	42	rep1_vs_rep2
+vip GABAergic cortical interneuron	0.4790874524714829	124	139	100	seurat	123	42	rep1_vs_rep2
+L2/3-6 intratelencephalic projecting glutamatergic neuron	0.6108597285067874	292	150	100	seurat	123	42	rep1_vs_original
+L5 extratelencephalic projecting glutamatergic cortical neuron	0.3855421686746988	36	47	100	seurat	123	42	rep1_vs_original
+L6 corticothalamic-projecting glutamatergic cortical neuron	0.6051660516605166	121	150	100	seurat	123	42	rep1_vs_original
+L6b glutamatergic cortical neuron	0.5391849529780565	169	150	100	seurat	123	42	rep1_vs_original
+astrocyte	0.9403508771929825	135	150	100	seurat	123	42	rep1_vs_original
+caudal ganglionic eminence derived GABAergic cortical interneuron	0.6666666666666666	64	98	100	seurat	123	42	rep1_vs_original
+endothelial cell	0.6792452830188679	32	21	100	seurat	123	42	rep1_vs_original
+lamp5 GABAergic cortical interneuron	0.6934306569343066	124	150	100	seurat	123	42	rep1_vs_original
+microglial cell	0.9361702127659575	132	150	100	seurat	123	42	rep1_vs_original
+near-projecting glutamatergic cortical neuron	0.8065573770491803	155	150	100	seurat	123	42	rep1_vs_original
+oligodendrocyte	0.9761092150170648	143	150	100	seurat	123	42	rep1_vs_original
+oligodendrocyte precursor cell	0.8636363636363636	114	150	100	seurat	123	42	rep1_vs_original
+pericyte	0.6	10	10	100	seurat	123	42	rep1_vs_original
+pvalb GABAergic cortical interneuron	0.7151162790697675	194	150	100	seurat	123	42	rep1_vs_original
+sst GABAergic cortical interneuron	0.7357142857142858	130	150	100	seurat	123	42	rep1_vs_original
+vascular leptomeningeal cell	0.5714285714285714	4	3	100	seurat	123	42	rep1_vs_original
+vip GABAergic cortical interneuron	0.6934306569343066	124	150	100	seurat	123	42	rep1_vs_original
+L2/3-6 intratelencephalic projecting glutamatergic neuron	0.5656108597285068	292	150	100	seurat	123	42	rep2_vs_original
+L5 extratelencephalic projecting glutamatergic cortical neuron	0.5121951219512195	35	47	100	seurat	123	42	rep2_vs_original
+L6 corticothalamic-projecting glutamatergic cortical neuron	0.5904761904761905	165	150	100	seurat	123	42	rep2_vs_original
+L6b glutamatergic cortical neuron	0.5993265993265994	147	150	100	seurat	123	42	rep2_vs_original
+astrocyte	0.9130434782608695	126	150	100	seurat	123	42	rep2_vs_original
+caudal ganglionic eminence derived GABAergic cortical interneuron	0.6666666666666666	67	98	100	seurat	123	42	rep2_vs_original
+endothelial cell	0.7272727272727273	23	21	100	seurat	123	42	rep2_vs_original
+lamp5 GABAergic cortical interneuron	0.6615969581749049	113	150	100	seurat	123	42	rep2_vs_original
+microglial cell	0.9619377162629758	139	150	100	seurat	123	42	rep2_vs_original
+near-projecting glutamatergic cortical neuron	0.7428571428571429	130	150	100	seurat	123	42	rep2_vs_original
+oligodendrocyte	0.9591836734693877	144	150	100	seurat	123	42	rep2_vs_original
+oligodendrocyte precursor cell	0.9018181818181819	125	150	100	seurat	123	42	rep2_vs_original
+pericyte	0.7	10	10	100	seurat	123	42	rep2_vs_original
+pvalb GABAergic cortical interneuron	0.7507692307692307	175	150	100	seurat	123	42	rep2_vs_original
+sst GABAergic cortical interneuron	0.777027027027027	146	150	100	seurat	123	42	rep2_vs_original
+vascular leptomeningeal cell	1.0	3	3	100	seurat	123	42	rep2_vs_original
+vip GABAergic cortical interneuron	0.6782006920415224	139	150	100	seurat	123	42	rep2_vs_original
