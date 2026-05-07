@@ -37,7 +37,7 @@ Conda envs are hardcoded in `nextflow.config`: `scanpyenv` (Python: scanpy, scvi
 
 Human Multiple Cortical Areas SMART-seq:
 
-![Agreement curves](homo_sapiens/Multiple%20Cortical%20Areas%20SMART-seq/2024-07-01/results/agreement_curves.png)
+![Agreement curves](homo_sapiens/Multiple_Cortical_Areas_SMART-seq/2024-07-01/results/agreement_curves.png)
 
 Minimum depth for ARI &ge; 0.95 (`stability_summary.tsv`):
 
@@ -48,11 +48,15 @@ Minimum depth for ARI &ge; 0.95 (`stability_summary.tsv`):
 
 Both methods saturate by 25k counts/cell. Seurat reaches the 0.95 stability threshold earlier than scVI on this dataset.
 
+The query set has an original average depth of ~1.29M counts/cell with ~6,600 genes detected per cell (median); all target depths sit at least one order of magnitude below this.
+
 Note: counts here are gene-assigned read counts in the expression matrix, not raw sequencer reads. Smart-seq v4 has no UMIs, so PCR duplicates may be present depending on upstream processing.
 
 ## Related work
 
 [Ma et al. 2022, *Science*](https://doi.org/10.1126/science.abo7257) ran a similar analysis on human dlPFC, subsampling cells and UMIs to evaluate per-subtype separability with AUC, with results stratified by subtype abundance.
+
+Their depth axis is in UMI counts; ours is in Smart-seq read counts. Smart-seq v4 has no UMIs, so matrix counts are reads with PCR duplicates retained; Jorstad et al.'s QC excludes cells with < 50% unique reads, which bounds but doesn't eliminate the bias. Ma et al. don't specify where in their pipeline the downsampling happens, so it's unclear whether their UMIs are deduplicated at the point of sampling. Depth thresholds reported here are therefore not directly comparable to theirs.
 
 
 ## Output layout
@@ -71,4 +75,10 @@ Raw `.h5ad`, `.rds`, and the scVI model directory are gitignored.
 
 ## Data
 
-Human Multiple Cortical Areas SMART-seq, [CellxGene collection](https://cellxgene.cziscience.com/collections/d17249d2-0e6e-4500-abb8-e6c93fa1ac6f).
+Human Multiple Cortical Areas SMART-seq from [Jorstad et al. 2023](https://doi.org/10.1126/science.adf6812), accessed via [CellxGene](https://cellxgene.cziscience.com/collections/d17249d2-0e6e-4500-abb8-e6c93fa1ac6f).
+
+## References
+
+Jorstad, N. L., et al. (2023). Transcriptomic cytoarchitecture reveals principles of human neocortex organization. *Science*, 382(6667), eadf6812. https://doi.org/10.1126/science.adf6812
+
+Ma, S., et al. (2022). Molecular and cellular evolution of the primate dorsolateral prefrontal cortex. *Science*, 377(6614). https://doi.org/10.1126/science.abo7257
